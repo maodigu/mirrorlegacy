@@ -1,4 +1,4 @@
-# Capítulo 7 - Hechizo
+# Capítulo 7: Hechizo
 
 La deslumbrante cresta del amanecer sobre las Grandes Montañas Li acariciaba el dorado Lago Vistaluna. El viento barría las interminables y superpuestas marismas de juncos, llevando consigo la risa juguetona de los niños en el Río Meichi.
 

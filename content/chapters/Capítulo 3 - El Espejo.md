@@ -1,4 +1,4 @@
-# Capítulo 3 - El Espejo.
+# Capítulo 3: El Espejo.
 
 –Hola, Hermano Xiangping.
 

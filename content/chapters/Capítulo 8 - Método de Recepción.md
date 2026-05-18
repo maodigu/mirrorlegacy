@@ -1,4 +1,4 @@
-# Capítulo 8 - Método de Recepción
+# Capítulo 8: Método de Recepción
 
 El 「Hechizo de Espíritu de Sacrificio de la Perla Profunda」 era mucho más complejo que el 「Sutra de Respiración para Nutrición de Rueda del Yin Supremo」. Detallaba principalmente el uso del espejo para aprovechar la energía lunar del Yin Supremo y condensar la “semilla talismánica de la perla profunda”.
 

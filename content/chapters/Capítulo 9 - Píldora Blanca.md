@@ -1,4 +1,4 @@
-# Capítulo 9 - Píldora Blanca.
+# Capítulo 9: Píldora Blanca.
 
 Bajo el sauce iluminado por la luna, Li Chejing abrió sus ojos de repente, dándose la vuelta hacia Li Mutian, que estaba sentado a su lado.
 

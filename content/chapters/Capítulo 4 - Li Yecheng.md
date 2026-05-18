@@ -1,4 +1,4 @@
-# Capítulo 4 - Li Yecheng.
+# Capítulo 4: Li Yecheng.
 
 –¡Por favor, Tío Mayor, perdóname la vida!
 
