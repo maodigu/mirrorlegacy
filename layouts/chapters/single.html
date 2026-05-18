@@ -1,20 +1,47 @@
-{{- $currentId := 0 -}} {{- $currentTitle := .Title -}} {{- $matches :=
-findRESubmatch `(?m)^#\s*Capítulor\s+(\d+):\s*(.*)$` .RawContent 1 -}} {{- if
-$matches -}} {{- $match := index $matches 0 -}} {{- $currentId = int (index
-$match 1) -}} {{- $currentTitle = index $match 2 -}} {{- end -}} {{- $chapters
-:= slice -}} {{- range where .Site.RegularPages "Section" "chapters" -}} {{-
-$cId := 0 -}} {{- $cMatches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+)`
-.RawContent 1 -}} {{- if $cMatches -}} {{- $cId = int (index (index $cMatches 0)
-1) -}} {{- $chapters = $chapters | append (dict "id" $cId "url" .RelPermalink)
--}} {{- end -}} {{- end -}} {{- $chapters = sort $chapters "id" "asc" -}} {{-
-$prevId := "" -}} {{- $nextId := "" -}} {{- $prevUrl := "" -}} {{- $nextUrl :=
-"" -}} {{- $currentIndex := -1 -}} {{- range $index, $element := $chapters -}}
-{{- if eq $element.id $currentId -}} {{- $currentIndex = $index -}} {{- end -}}
-{{- end -}} {{- if gt $currentIndex 0 -}} {{- $prevItem := index $chapters (sub
-$currentIndex 1) -}} {{- $prevId = $prevItem.id -}} {{- $prevUrl = $prevItem.url
--}} {{- end -}} {{- if lt (add $currentIndex 1) (len $chapters) -}} {{-
-$nextItem := index $chapters (add $currentIndex 1) -}} {{- $nextId =
-$nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
+{{- $currentId := 0 -}}
+{{- $currentTitle := .Title -}}
+{{- /* CORREGIDO: Se eliminó la "r" sobrante en Capítulo */ -}}
+{{- $matches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+):\s*(.*)$` .RawContent 1 -}}
+{{- if $matches -}}
+  {{- $match := index $matches 0 -}}
+  {{- $currentId = int (index $match 1) -}}
+  {{- $currentTitle = index $match 2 -}}
+{{- end -}}
+
+{{- $chapters := slice -}}
+{{- range where .Site.RegularPages "Section" "chapters" -}}
+  {{- $cId := 0 -}}
+  {{- $cMatches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+)` .RawContent 1 -}}
+  {{- if $cMatches -}}
+    {{- $cId = int (index (index $cMatches 0) 1) -}}
+  {{- end -}}
+  {{- $chapters = $chapters | append (dict "id" $cId "url" .RelPermalink) -}}
+{{- end -}}
+
+{{- $chapters = sort $chapters "id" "asc" -}}
+{{- $prevId := "" -}}
+{{- $nextId := "" -}}
+{{- $prevUrl := "" -}}
+{{- $nextUrl := "" -}}
+{{- $currentIndex := -1 -}}
+
+{{- range $index, $element := $chapters -}}
+  {{- if eq $element.id $currentId -}}
+    {{- $currentIndex = $index -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt $currentIndex 0 -}}
+  {{- $prevItem := index $chapters (sub $currentIndex 1) -}}
+  {{- $prevId = $prevItem.id -}}
+  {{- $prevUrl = $prevItem.url -}}
+{{- end -}}
+
+{{- if lt (add $currentIndex 1) (len $chapters) -}}
+  {{- $nextItem := index $chapters (add $currentIndex 1) -}}
+  {{- $nextId = $nextItem.id -}}
+  {{- $nextUrl = $nextItem.url -}}
+{{- end -}}
 
 <!doctype html>
 <html lang="en">
