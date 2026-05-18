@@ -125,7 +125,7 @@ const ResumeManager = {
                 DOM.resumeBtn.href = lastRead.url;
                 let chapterText =
                     lastRead.id !== null && lastRead.id !== undefined
-                        ? `Ch. ${lastRead.id}`
+                        ? `Cp. ${lastRead.id}`
                         : "Unknown Chapter";
                 if (lastRead.title) {
                     chapterText += `: ${lastRead.title}`;
