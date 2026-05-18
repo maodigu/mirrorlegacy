@@ -303,7 +303,7 @@ const ContentManager = {
                 return `
                 <a href="${ch.url}" class="latest-item">
                     <div class="latest-meta">
-                        <span class="latest-chapter-num">Chapter ${ch.id}</span>
+                        <span class="latest-chapter-num">Capítulo ${ch.id}</span>
                         <span class="latest-chapter-title">${ch.title}</span>
                     </div>
                     ${badge}
