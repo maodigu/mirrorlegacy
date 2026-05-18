@@ -181,8 +181,8 @@ const ContentManager = {
         DOM.sortBtn.addEventListener("click", () => {
             this.state.sortDesc = !this.state.sortDesc;
             DOM.sortLabel.textContent = this.state.sortDesc
-                ? "Newest First"
-                : "Oldest First";
+                ? "Más Nuevo Primero"
+                : "Más Viejo Primero";
             this.refreshDataSource();
         });
     },
