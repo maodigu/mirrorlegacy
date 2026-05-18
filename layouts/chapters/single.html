@@ -198,37 +198,37 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
                         d="M20.317 4.3698a19.7913 19.7913 0 0 0-4.8851-1.5152.0741.0741 0 0 0-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 0 0-.0785-.037 19.7363 19.7363 0 0 0-4.8852 1.515.0699.0699 0 0 0-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 0 0 .0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 0 0 .0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 0 0-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 0 1-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 0 1 .0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 0 1 .0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 0 1-.0066.1276 12.2986 12.2986 0 0 1-1.873.8914.0766.0766 0 0 0-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 0 0 .0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 0 0 .0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 0 0-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.419-2.1568 2.419zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.419-2.1568 2.419z"
                     />
                 </svg>
-                Join the conversation on Discord
+                Únete a la conversación en Discord
             </a>
         </div>
 
         <nav class="chapter-nav bottom-nav">
             {{ if $prevUrl }}
-            <a class="nav-link nav-prev" href="{{ $prevUrl }}">← Previous</a>
+            <a class="nav-link nav-prev" href="{{ $prevUrl }}">← Anterior</a>
             {{ else }}
-            <a class="nav-link nav-prev disabled">← Previous</a>
+            <a class="nav-link nav-prev disabled">← Anterior</a>
             {{ end }}
 
             <a class="nav-link nav-toc" href="{{ `/mirrorlegacy/` | relURL }}"
-                >Index</a
+                >Índice</a
             >
 
             {{ if $nextUrl }}
-            <a class="nav-link nav-next" href="{{ $nextUrl }}">Next →</a>
+            <a class="nav-link nav-next" href="{{ $nextUrl }}">Siguiente →</a>
             {{ else }}
-            <a class="nav-link nav-next disabled">Next →</a>
+            <a class="nav-link nav-next disabled">Siguiente →</a>
             {{ end }}
         </nav>
 
         <footer class="page-footer">
-            Translated with ❤️ by Maodigu and Nouvelle
+            Traducido con ❤️ por Maodigu and Nouvelle
         </footer>
 
         <div class="fab-container">
             <div class="settings-menu" id="settingsMenu">
                 <div class="setting-item">
                     <div class="setting-header">
-                        <label>Font Size</label>
+                        <label>Tamaño de Fuente:</label>
                         <span id="fs-val" class="value-display">18px</span>
                     </div>
                     <input
@@ -242,7 +242,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
 
                 <div class="setting-item">
                     <div class="setting-header">
-                        <label>Line Height</label>
+                        <label>Altura de Linea:</label>
                         <span id="lh-val" class="value-display">1.6</span>
                     </div>
                     <input
@@ -257,7 +257,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
 
                 <div class="setting-item">
                     <div class="setting-header">
-                        <label>Letter Spacing</label>
+                        <label>Espaciado de Letra</label>
                         <span id="spacing-val" class="value-display">0px</span>
                     </div>
                     <input
@@ -326,7 +326,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
                 <div class="setting-row">
                     <div class="setting-item">
                         <div class="setting-header">
-                            <label>Paragraph Style</label>
+                            <label>Estilo del Párrafo</label>
                         </div>
                         <div class="segmented-control" id="para-style-btns">
                             <button
@@ -356,7 +356,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
                 </div>
                 <div class="setting-item">
                     <div class="setting-header">
-                        <label>Theme</label>
+                        <label>Tema</label>
                     </div>
                     <div class="theme-selector">
                         <button
@@ -510,7 +510,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
         <div class="modal-overlay" id="noteOverlay">
             <div class="modal" id="noteModal">
                 <div class="modal-header">
-                    <h3>Highlight Note</h3>
+                    <h3>Resaltar Nota</h3>
                 </div>
                 <textarea
                     id="noteInput"
@@ -518,10 +518,10 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
                 ></textarea>
                 <div class="modal-actions">
                     <button class="ui-button btn-secondary" id="cancelNote">
-                        Cancel
+                        Cancelar
                     </button>
                     <button class="ui-button btn-primary" id="saveNote">
-                        Save Note
+                        Guardar Nota
                     </button>
                 </div>
             </div>
@@ -530,7 +530,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
         <div class="modal-overlay" id="overviewOverlay">
             <div class="modal overview-modal">
                 <div class="modal-header">
-                    <h3>My Highlights & Notes</h3>
+                    <h3>Mis Notas y Resaltados:</h3>
                     <button
                         class="icon-btn"
                         id="closeOverview"
