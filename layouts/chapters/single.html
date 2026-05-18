@@ -1,9 +1,9 @@
 {{- $currentId := 0 -}} {{- $currentTitle := .Title -}} {{- $matches :=
-findRESubmatch `(?m)^#\s*Chapter\s+(\d+):\s*(.*)$` .RawContent 1 -}} {{- if
+findRESubmatch `(?m)^#\s*Capítulor\s+(\d+):\s*(.*)$` .RawContent 1 -}} {{- if
 $matches -}} {{- $match := index $matches 0 -}} {{- $currentId = int (index
 $match 1) -}} {{- $currentTitle = index $match 2 -}} {{- end -}} {{- $chapters
 := slice -}} {{- range where .Site.RegularPages "Section" "chapters" -}} {{-
-$cId := 0 -}} {{- $cMatches := findRESubmatch `(?m)^#\s*Chapter\s+(\d+)`
+$cId := 0 -}} {{- $cMatches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+)`
 .RawContent 1 -}} {{- if $cMatches -}} {{- $cId = int (index (index $cMatches 0)
 1) -}} {{- $chapters = $chapters | append (dict "id" $cId "url" .RelPermalink)
 -}} {{- end -}} {{- end -}} {{- $chapters = sort $chapters "id" "asc" -}} {{-
@@ -95,7 +95,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
                 {{ if $nextUrl }}
                 <a class="nav-link nav-next" href="{{ $nextUrl }}">Siguiente →</a>
                 {{ else }}
-                <a class="nav-link nav-next disabled">Siguiente→</a>
+                <a class="nav-link nav-next disabled">Siguiente →</a>
                 {{ end }}
             </nav>
         </div>
