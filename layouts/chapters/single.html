@@ -83,7 +83,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
                     >← Previous</a
                 >
                 {{ else }}
-                <a class="nav-link nav-prev disabled">← Previous</a>
+                <a class="nav-link nav-prev disabled">← Anterior</a>
                 {{ end }}
 
                 <a
@@ -93,9 +93,9 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
                 >
 
                 {{ if $nextUrl }}
-                <a class="nav-link nav-next" href="{{ $nextUrl }}">Next →</a>
+                <a class="nav-link nav-next" href="{{ $nextUrl }}">Siguiente →</a>
                 {{ else }}
-                <a class="nav-link nav-next disabled">Next →</a>
+                <a class="nav-link nav-next disabled">Siguiente→</a>
                 {{ end }}
             </nav>
         </div>
@@ -118,7 +118,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
                     >
                         <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
                     </svg>
-                    <span id="audio-status-text">Listen</span>
+                    <span id="audio-status-text">Escuchar</span>
                 </button>
 
                 <div class="audio-separator"></div>
@@ -139,7 +139,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
             <div id="audioSettingsMenu" class="audio-menu">
                 <div class="setting-item">
                     <div class="setting-header">
-                        <label>Voice</label>
+                        <label>Voz</label>
                     </div>
                     <div class="select-wrapper">
                         <select id="input-voice"></select>
@@ -148,7 +148,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
 
                 <div class="setting-item">
                     <div class="setting-header">
-                        <label>Speed</label>
+                        <label>Velocidad</label>
                         <span id="rate-val" class="value-display">1x</span>
                     </div>
                     <input
@@ -163,7 +163,7 @@ $nextItem.id -}} {{- $nextUrl = $nextItem.url -}} {{- end -}}
 
                 <div class="setting-item">
                     <div class="setting-header">
-                        <label>Pitch</label>
+                        <label>Registro</label>
                         <span id="pitch-val" class="value-display">1</span>
                     </div>
                     <input
