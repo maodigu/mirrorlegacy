@@ -1,6 +1,6 @@
-baseURL: https://example.com/example_novel/
-languageCode: [THE_LANGUAGE]
-title: [THE_TITLE_OF_THE_NOVEL]
+baseURL: https://maodigu.github.io/mirrorlegacy/
+languageCode: "es-419"
+title: "El Clan Inmortal del Espejo Místico"
 
 mediaTypes:
     text/javascript:

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El Clan Inmortal del Espejo Místico - Chapters Feed</title>
+    <link>https://maodigu.github.io/mirrorlegacy/</link>
+    <description></description>
+    <generator>tg</generator>
+    <language>en-us</language>
+    <atom:link href="https://maodigu.github.io/mirrorlegacy/index.rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Clan Inmortal del Espejo Místico - Chapter 1</title>
+      <link>https://maodigu.github.io/mirrorlegacy/chapters/01/</link>
+      <pubDate>Mon, 18 May 2026 13:14:35 GMT</pubDate>
+      <guid>https://maodigu.github.io/mirrorlegacy/chapters/01/</guid>
+      <chapter>1</chapter>
+    </item>
+  </channel>
+</rss>
