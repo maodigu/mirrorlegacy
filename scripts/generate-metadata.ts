@@ -76,7 +76,7 @@ async function generateMetadata() {
             if (!chapterDate) {
                 chapterDate = new Date().toUTCString();
                 console.log(
-                    `New chapter: Chapter ${chapterNum}. Assigning timestamp.`,
+                    `Capítulo Nuevo: Capítulo ${chapterNum}. Asignando timestamp.`,
                 );
             }
 
@@ -95,7 +95,7 @@ async function generateMetadata() {
     const itemsXml = rssChapters
         .map(
             (ch) => `    <item>
-      <title>${siteTitle} - Chapter ${ch.id}</title>
+      <title>${siteTitle} - Capítulo ${ch.id}</title>
       <link>${origin}${ch.url}</link>
       <pubDate>${ch.date}</pubDate>
       <guid>${origin}${ch.url}</guid>
@@ -107,7 +107,7 @@ async function generateMetadata() {
     const rssXml = `<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>${siteTitle} - Chapters Feed</title>
+    <title>${siteTitle} - Feed de Capítulos</title>
     <link>${origin}${relUrl}</link>
     <description>${description}</description>
     <generator>tg</generator>
