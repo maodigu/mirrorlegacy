@@ -57,7 +57,7 @@ async function generateMetadata() {
         date: string;
         url: string;
     }> = [];
-    const regex = /^#\s*Chapter\s+(\d+):\s*(.*)$/m;
+    const regex = /^#\s*Capítulo\s+(\d+):\s*(.*)$/m;
 
     for (const file of markdownFiles) {
         const filePath = join(CHAPTERS_DIR, file);

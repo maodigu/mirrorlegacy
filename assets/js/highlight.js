@@ -989,7 +989,7 @@ const HighlightManager = {
                 .map((group) => {
                     const groupTitle = formatTitle(group);
                     const groupLinkHtml = !group.isFlatList
-                        ? `<a href="${group.path}" class="hl-chapter-link">Go to Chapter</a>`
+                        ? `<a href="${group.path}" class="hl-chapter-link">Ir al Capítulo</a>`
                         : "";
 
                     const itemsHtml = group.highlights
@@ -1095,7 +1095,7 @@ const HighlightManager = {
                         ) {
                             const path = key.substring(prefix.length);
                             const first = highlights[0];
-                            const title = first.pageTitle || "Unknown Chapter";
+                            const title = first.pageTitle || "Capítulo Desconocido.";
                             const chapterNum =
                                 first.chapterNum ||
                                 path

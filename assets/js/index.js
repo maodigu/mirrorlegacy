@@ -126,7 +126,7 @@ const ResumeManager = {
                 let chapterText =
                     lastRead.id !== null && lastRead.id !== undefined
                         ? `Cp. ${lastRead.id}`
-                        : "Unknown Chapter";
+                        : "Capítulo Desconocido";
                 if (lastRead.title) {
                     chapterText += `: ${lastRead.title}`;
                 }
@@ -134,7 +134,7 @@ const ResumeManager = {
                 DOM.resumeBtn.classList.remove("resume-hidden");
             }
         } catch (e) {
-            console.error("Error reading history", e);
+            console.error("Error Leyendo el historial", e);
         }
     },
 };
