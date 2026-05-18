@@ -1,0 +1,132 @@
+# Capítulo 8 - Método de Recepción
+
+El 「Hechizo de Espíritu de Sacrificio de la Perla Profunda」 era mucho más complejo que el 「Sutra de Respiración para Nutrición de Rueda del Yin Supremo」. Detallaba principalmente el uso del espejo para aprovechar la energía lunar del Yin Supremo y condensar la “semilla talismánica de la perla profunda”.
+
+Al plantar esta semilla talismánica en el dantian de otra persona, podría ayudarla en su cultivación. Cuando esa persona lograba el éxito en su cultivación o perecía, retroalimentaba el cuerpo de su benefactor, forjando así la Luz Profunda del Yin Supremo._  
+MD: El término utilizado es "反哺", que se asemeja a retribuir a los padres por haber criado a uno. La traducción literal es "retroalimentar", por lo que se trata de devolver el favor, como cuando los hijos crecen y apoyan a los padres._
+
+Incluía también un 「Método de Recepción」, que guiaba al receptor en sobre como extraer la semilla talismánica de la perla profunda del espejo y su cultivación dentro de su dantian.
+
+Lu Jiangxian se detuvo, sintiendo una sensación de inquietud respecto al 「Espíritu de Sacrificio de la Perla Profunda」. Parecía casi siniestro, como uno de esos artes demoníacos que había leído en libros anteriormente. Tras una cuidadosa consideración y una lectura exhaustiva, confirmó que la semilla del talismán de la perla profunda no solo era inofensiva para los receptores, sino que también ofrecía beneficios significativos.
+
+El 「Hechizo de Espíritu de Sacrificio de la Perla Profunda」 era un hechizo inherente que el espejo había despertado. La cantidad de semillas del talismán de la perla profunda que podía condensar estaba limitada por la fuerza de su sentido divino. En ese momento, solo podía albergar seis semillas.
+
+–¡Qué gran cambio!
+
+Durante los tres años que pasó durmiendo dentro del espejo, la familia Li había construido un estanque, había expandido su complejo y había prosperado. Li Changhu se había casado y se había dejado crecer la barba, asumiendo su cargo como nuevo jefe de la familia.
+
+Usando su hechizo, él había escaneado a la familia Li pero no había encontrado a ninguno con el "orificio espiritual" necesario para la inmortalidad. Aunque él ya se había esperado esto, aun así no pudo evitar decepcionarse un poco.
+
+Parecía que, a menos que sucediese un evento improbable, ningún miembro de la familia Li alcanzaría la inmortalidad. Sus destinos estaban unidos al mundo mortal, con longevidades que no excedían los setenta años.
+
+Al observar a la familia Li, Lu Jiangxian había suspirado profundamente y había activado el hechizo.
+
+Li Chejing, con ojos agudos, había sido el primero en notar un cambio y había gritado: –¡Padre, mira!
+
+Los demás hermanos de la familia Li también se reunieron rápidamente alrededor.
+
+Li Mutian se enfocó intensamente en el espejo. Un resplandor blanco cruzó a través de su superficie, y un pequeño texto apareció. Le dio una palmada en el hombro a Li Chejing y le ordenó: –¡Tráeme tela y tinta!
+
+Los hermanos se apresuraron a buscar los materiales necesarios.
+
+La previsión de la familia Li al construir un estudio resultó útil. Estaba bien surtido con los cuatro tesoros para estudiar, donados por el maestro Han. De lo contrario, habrían tenido que viajar hasta la entrada del pueblo para obtener esos suministros.
+
+Li Changhu trajo rápidamente la tela, mientras que Li Tongya llevó una mesa de madera y tinta. Afortunadamente, Li Chejing, que estaba junto al espejo, ya había memorizado el texto que había aparecido y desaparecido anteriormente.
+
+Entre los hermanos, Li Chejing era el más joven, pero también el más leído. Por lo tanto, Li Mutian le encomendó la tarea de transcribir los pequeños caracteres que aparecían.
+
+La transcripción del _Método de Recepción_ fue un proceso largo. Li Chejing escribió diligentemente durante el tiempo que tardaba una varilla de incienso en quemarse, hasta que su muñeca comenzó a dolerle. Luego, Li Tongya se hizo cargo, mientras que los demás observaban cuidadosamente para asegurarse de la precisión.
+
+La tarea tardó dos horas en completarse, con los hermanos turnándose en sus esfuerzos.
+
+Ansioso por garantizar que todo fuese perfecto, Lu Jiangxian permitió que el guion se manifestara tres veces. También incluyó anotaciones detalladas de jerga daoísta, junto con diagramas de circulación de qi y los caminos de meridianos._  
+MD: Daoísta va a ser la forma que me voy a referir a aquellos que practican el Dao de la Inmortalidad. Llamarles Taoístas se me hace raro._
+
+Solo después de ver a los hermanos verificar cuidadosamente cada detalle, Lu Jiangxian gradualmente desvaneció la luz.
+
+–El 「Método de Recepción」, –leyó Li Xiangping en voz alta desde la tela, su voz firme.
+
+–_La perla profunda es el verdadero núcleo. Al principio de la primera revolución, el núcleo desciende a los meridianos del corazón, de ahí que se diga que la cueva del núcleo se encuentra en el palacio central. La caída del núcleo constituyó la primera revolución... Después de que el núcleo desciende, retener la respiración durante nueve intervalos contará como un ciclo, alcanzando nueve veces nueve, ochenta y uno, equivalía a nueve ciclos. Así se le llamó el número de los Doble Nueves..._
+
+–¡Esto es un hechizo inmortal! –exclamó Li Changhu, sorprendido y eufórico, resistiendo a duras penas el impulso de abrazar el espejo y darle un beso.
+
+Los hermanos pasaron el paño de mano en mano, leyendo con detenimiento y en silencio, memorizando cada nota al mismo tiempo que suprimían su felicidad y su emoción.
+
+La mirada de Li Xiangping cayó luego en unas pocas oraciones al final del escrito.
+
+–Habiendo dominado el Método de Recepción, esperó los días de Jiazi, Gengshen, el año de su nacimiento, las Tres Épocas, las Tres Reuniones, los Ocho Festivales, o los días de la luna nueva y llena. En esos días, el qi celestial proclama la vida, y el yang vibrante disipa el yin. Coloca el espejo de dharma bajo la esencia lunar, quema incienso y báñate. Inclínate profundamente y solicita lo siguiente: –Yo, discípulo fulano de la familia tal, respetuosamente solicito la Dharma de la Brillantez Profunda Maravillosa, para gobernar mi destino y calmar mi espíritu, mientras me dedico a perseguir el Dao. Realizaré acciones meritorias en los momentos adecuados, sin fallar en mi eficacia y fe. Mientras el talismán arde, mi cuerpo ofrece su gratitud al Yin Supremo. Al terminar, hay que tragar el qi tres veces.
+
+_MD: Explicación al final del capítulo._
+
+–Cuando llegue el momento, no fallaré en cumplir mi promesa. Con este talismán quemado, expreso mi gratitud al Yin Supremo, –repitió suavemente para sí mismo.
+
+Li Mutian miró a su hijo silencioso con la cabeza baja, luego le dio una palmada en la cabeza de manera reconfortante y habló con una expresión calmada – "Gobernar mi destino y calmar mi espíritu, mientras me dedico a perseguir el Dao".
+
+---
+
+En la madrugada, pequeñas motas delgadas de humo salían de los techos de las casas del pueblo, mezclándose con la niebla en el aire.
+
+–Tío Li, parece que estás de buen humor hoy. ¿Cuál es la ocasión? –Las personas que trabajaban en el campo saludaron a Li Mutian con una sonrisa al verlo caminar junto al campo.
+
+Mirando hacia abajo, Li Mutian reconoció a su sobrino, Ye Chengfu. La apariencia inocente y honesta del muchacho se correspondía con su lengua dulce.
+
+–Las espigas verdes de grano en estos campos son un placer de contemplar! –Li Mutian se rió con fuerza y respondió.
+
+El pueblo de Lijing estaba dominado por cuatro familias principales: Ye, Tian, Li y Liu. La familia Ye, que constituía más del treinta por ciento de la población del pueblo, era la más grande. Unida, era una fuerza que había que tener en cuenta.
+
+–¡Oh, fueron bendecidos por la buena suerte del hermano Changhu! – respondió Ye Chengfu con respeto, apoyándose en su azada.
+
+–¡De verdad tienes don para las palabras, sabandija!
+
+El anciano sabía que se refería a la reciente boda de Li Changhu. La dama Ren era encantadora, obediente y sensata, y su corazón estaba completamente entregado a Li Changhu.
+
+Li Mutian había estado esperando a que la Señora Ren diera a luz a un heredero antes de revelar adecuadamente alguna información. Ella sabía cómo guardar silencio. Viviendo bajo el mismo techo, no habría beneficio en guardar demasiados secretos; en cambio, generaría resentimiento de la nada.
+
+_–Tongya se muestra reacio a casarse, y Xiangping ya tiene edad suficiente,–_ pensó Li Mutian, acariciándose la barba.
+
+_–La hija de mi buen amigo, Tian Yun, sería una buena pareja para Xiangping, considerando sus edades similares. Le preguntaré a Xiangping sobre ello cuando regrese. Quizás no falte mucho tiempo para que lleve una propuesta junto a un cisne hasta su casa,–_ pensó con una sonrisa.
+
+En el patio, Li Tongya y sus hermanos estaban estudiando diligentemente el 「Método de Recepción」. Li Changhu, después de haber pasado la mañana patrullando en los campos, se apresuró a reunirse con ellos.
+
+Li Mutian, sintiendo el peso de sus años, prefirió dejar el hechizo inmortal a la siguiente generación y centró su atención en asuntos mundanos.
+
+Después de todo, alguien tenía que supervisar los campos. Además, era sabio mantener un ojo avizor para cualquier individuo sin escrúpulos que intentara echar un vistazo a su hogar.
+
+Li Mutian había estado de buen humor ese día. Se sentó en la cresta de agua, participando en una charla relajada con los ancianos del pueblo.
+
+————
+
+Mientras tanto, en la Residencia Li…
+
+Lu Jiangxian había enfocado su sentido divino en los tres individuos – Li Tongya y dos otros, que estaban sentados con las piernas cruzadas y los ojos cerrados. Habían aparecido débiles halos blancos en la parte superior de sus cabezas.
+
+El halo de Li Chejing había sido el más prominente, extendiéndose unos ocho cun y brillando intensamente. Los halos de Li Tongya y Li Xiangping habían medido seis cun y cinco cun respectivamente, mientras que el de Li Changhu había sido solo de tres cun.
+
+El tamaño de estos halos, que habían aparecido cuando comenzaron a practicar el _Método de Recepción_, había indicado el nivel de compatibilidad entre el individuo y la Semilla del Talismán de la Perla Profunda. Un halo de un chi había significado una coincidencia tan perfecta como alguien nacido con un orificio espiritual.
+
+El halo de ocho cun que tenía Li Chejing implicaba que podría alcanzar hasta el ochenta por ciento de la velocidad de cultivación de una persona con un orificio espiritual natural. En contraste, el halo de tres cun de Li Changhu significaba que su velocidad de cultivación había estado limitada a solo el treinta por ciento de ese potencial.
+
+En esencia, la tasa de cultivación de Li Changhu era mucho más lenta. Podría haber dedicado todo un día a la cultivación, y sin embargo, lograría menos progreso que aquellos que habían dedicado solo ocho horas a su entrenamiento.
+
+_MD: Aclaremos este párrafo:_  
+_“–Habiendo dominado el Método de Recepción, esperó los días de Jiazi, Gengshen, el año de su nacimiento, las Tres Épocas, las Tres Reuniones, los Ocho Festivales, o los días de la luna nueva y llena. En esos días, el qi celestial proclama la vida, y el yang vibrante disipa el yin…”_
+
+_Que “El Yang disipe el Yin” se refiere a periodos del calendario sexagenario donde la energía “Positiva” es mayor o más abundante que la “Negativa”, asociadas a Yang y Yin, respectivamente. Son periodos ideales para los comienzos y para los rituales. El ritual debería hacerse en esos momentos para tener el mejor efecto._
+
+_El año Jiazi y el Año Gengshen, en el ciclo de sesenta años del calendario chino (llamado Ciclo Sexagenario). El año Jiazi (甲子) es el primer año del ciclo, y representa comienzo absoluto, renacimiento y orden. El año Gengshen (庚申), es el año número cincuenta y siete. Según el Taoísmo, en este año, los espíritus suben a los cielos para informar de tus actos en el mundo terrenal. Por eso, hacer cosas para “Purificar” y demás se ve como algo auspicioso._
+
+_Los tres festivales Yuan (三元) son fechas claves basadas en los tres oficiales (Tierra, Cielo y Agua), y son las fiestas más sagradas del calendario Taoísta._  
+_Shangyuan - Origen Superior (上元): Festival de las Linternas; da bendiciones. Día 15 del mes lunar 1._  
+_Zhongyuan - Origen Intermedio (中元): Festival de los Fantasmas Hambrientos; penitencia y honrar antepasados. Día 15 del mes lunar 7.  
+Xiayuan - Origen Inferior (下元): Rezos de Protección y Remover Desastres. Día 15 del mes lunar 10._
+
+_Por último, los ocho términos solares (conocidos como Ba Jie – 八節). Dividen el año en secciones basadas en la posición del sol, marcando el inicio, el pico y el declive de las energías de las estaciones._  
+_Los primeros cuatro representan el Comienzo de las cuatro estaciones: Primavera (立春), Verano (立夏), Otoño (立秋) e Invierno (立冬), en donde el Yang pasa a ser el dominante a menguar ante el Yin._  
+_Los dos Equinoccios, de Primavera y Otoño (春分 y 秋分) representan los momentos de equilibrio entre Yin y Yang. Dependiendo cual de los dos, el Yang o el Yin es quien comenzaría a ganar empuje. (Primavera, es Yang. Otoño es Yin)._
+
+_Los solsticios (Xia Zhi – 夏至 y Dong Zhi – 冬至) son los puntos del Verano y el Invierno, respectivamente, donde el Yang y el Yin están en sus puntos cúspides._  
+_Son auspiciosos porque se aprovecha el impulso del cambio (Comienzos), el equilibrio (Equinoccios) o el momento en que la energía débil empieza a recuperar impulso (Solsticio)._
+
+[Capítulo Anterior:](https://www.blogger.com/#) 
+
+[Capítulo Siguiente:](https://www.blogger.com/#)

@@ -1,0 +1,142 @@
+# Capítulo 10 - Unión Familiar
+
+Li Mutian caminó hasta la entrada de la casa de la Familia Tian con las manos detrás de la espalda cuando Tian Yun, que se encontraba seleccionando verduras en el patio mientras tarareaba, levantó la vista y, al ver a Li Mutian, sonrió con timidez y dijo:
+
+–¡Tío Li!
+
+Tian Yun dejó las verduras que había juntado en el suelo y se puso de pie rápidamente para gritar hacia el interior de la casa:  
+–¡Padre! ¡El tío Mutian ha llegado!
+
+–Mhm, soy yo.
+
+Respondió Li Mutian con una sonrisa, mirando a Tian Yun de arriba a abajo.
+
+La muchacha había crecido notablemente durante los tres últimos años, tenía una figura bien proporcionada y con curvas agraciadas. Aunque no podía considerarse hermosa, sus cualidades eran pulcras y propias, cuando sonreía, mostraba un especial encanto.
+
+– Nada mal, nada mal –dijo Li Mutian para después sacar un gran ave de su espalda.
+
+–Tío Li, no era necesario que se tomase tanta molestia.
+
+Tian Yun se sorprendió al ver que él llevaba algo en la mano y, al mirar más de cerca, explamó:
+
+–¿Es un ganso?
+
+Según el “Yi Li – Shi Hun Li”, para un matrimonio, el novio debía llevar un ganso cuando fuese a pedir la mano de la novia, y a esa costumbre se la conocía como “Na Cai”, o “entrega del ganso”.  
+_TT: Yi Li - Shi Hun Shi: Libro de Etiqueta y Ceremonial – Los Ritos del Matrimonio._
+
+En el estado de Yue, cuando un hombre quería casarse con una mujer, llevaba un ganso a la casa de la novia.
+
+Las pequeñas familias granjeras no podían permitirse adherirse a reglas tan complejas. Para un pueblo normal como la Aldea Lijing, ni hablar de un ganso salvaje; habían muchos que iban a pedir la mano de alguien sin llevar nada. Esa también era la primera vez que Tian Yun veía una propuesta formal, por lo que le tomó un momento darse cuenta de qué estaba pasando.
+
+–¿Te gusta mi hijo, Xiangping? –le dijo Li Mutian en tono burlón.
+
+Li Mutian se rió a carcajadas; tenía ganas de molestarla un poco.
+
+Tian Yi ya había enrojecido desde la base de las orejas hasta el cuello y, debido a su orgullo y timidez en partes iguales, tartamudeó intentando ocultarlo. Temiendo que Li Mutian se lo tomase en serio, abrió la boca y dijo:
+
+–¡Sí!
+
+Tian Shoushui, que apenas salía por la puerta de su casa, exhaló un profundo suspiro de alivio al escuchar aquellas palabras; la piedra que cargaba en el pecho desde hacía tanto tiempo finalmente cayó al suelo.
+
+¡Cómo no iba a notar él, siendo padre, que el corazón de su hija ya le pertenecía a Li Xiangping!
+
+Sin embargo, aquel muchacho solía ser tan hermético en su día a día que le resultaba imposible descifrar sus intenciones. Por ello, ante el temor de que su hija terminara pasando por una humillación, Tian Shoushui siempre guardó silencio.
+
+–¡Hermano Mayor! –llamó Tian Shoushui con una gran carcajada.
+
+Tian Shoushui había seguido los pasos de Li Mutian desde los cinco años; a los doce, incluso se unieron juntos a Ren Ping'an para servir en el ejército. Los tres formaron un vínculo muy unido para sobrevivir en la guerra. No eran hermanos de sangre; su relación era mucho más fuerte.
+
+Después de eso regresaron a la aldea, acabaron con la poderosa familia Yuan y abandonaron el camino sangriento para dedicarse a la agricultura. Li Mutian siempre lo había cuidado en todo momento: le repartió tierras y hasta actuó como casamentero para que pudiera tomar una esposa.  
+_TT: Casamentero es alguien que organiza un casamiento._
+
+Tian Shoushui ya compartía las penas y las glorias con la familia Li; incluso había criado a Li Changhu con sus propias manos, queriéndolo más que a su propio hijo.
+
+¿Cómo iba a salir perdiendo su hija al casarse con esa familia?
+
+Tian Yun, ajena a los innumerables pensamientos que rondaban la cabeza de su padre, huyó despavorida en cuanto lo vio salir, lo que provocó otra oleada de risas en Li Mutian.
+
+–Hermano mayor, aparte de este asunto del matrimonio, hay otra cosa – dijo Tian Shoushui con un suspiro, sacudiendo la cabeza con seriedad.
+
+¿Qué cosa? –preguntó Li Mutian, alzando la vista con ligera confusión.
+
+–Fue hace unos días, cuando subí a la montaña y pasé por la tumba ancestral de la familia Yuan, y escuché algunos ruidos; cuando me di la vuelta para buscar, no encontré nada – explicó Tian Shoushui.
+
+–¿Será que la familia Yuan todavía tiene parientes vivos que no hayan sido eliminados? –Li Mutian frunció el ceño y habló con tono sombrío.
+
+–Quizás sean solo algunos parientes lejanos que vengan a hacerles memoria en secreto. –se apresuró a decir Tian Shoushui, como si estuviese tratando de calmar la inquietud en su corazón.
+
+–No te preocupes, tienes razón,– Li Mutian comenzó a relajarse y le asintió con la cabeza a Tian Shoushui: –En efecto, lo investigamos en su momento y se confirmó que había cinco miembros de la Familia Yuan. No hubo ningún error u omisión.
+
+–Hermano mayor, en un día tan afortunado como hoy no debería haber mencionado algo de tan mal agüero, –Tian Shou Shui se dio una palmada en la boca, lo que hizo que Li Mu Tian se riera suavemente.
+
+Al salir de la Casa Tian, Li Mutian caminó por el camino de tierra con una expresión serena, mirando hacia las Grandes Montañas Li con una mezcla de pensamientos.
+
+---
+
+Después de discutir el asunto del matrimonio, Li Mutian regresó al patio con una ligera sonrisa, cruzó el patio delantero y encontró a sus tres hijos charlando ociosamente alrededor de una mesa de madera.
+
+El joven Li Chejing estaba absorto en su habitación con los ojos cerrados, cultivando su qi. Aunque su progreso era lento durante el día, cuando la energía lunar era más débil, Li Chejing se esforzaba día y noche, sin desperdiciar un momento.
+
+En el patio, Li Xiangping estaba estudiando el Método de Recepción, pero lo estaba haciendo de manera tan intensa que la tela se había doblado varias veces y la tinta se había corrido en varios lugares.
+
+–Tercer Hermano, ten un poco más de cuidado cuando atormentes la tela, –le reprochó suavemente Li Tongya con una sonrisa, mientras seguía escribiendo con su cuchilla en una ficha de madera.
+
+El hermano mayor, Li Changhu, que estaba sentado al lado, revisando las cuentas del campo y trabajando en las finanzas, levantó una ceja al escuchar divertido y dijo: –Ya lleva toda la mañana atormentándola.
+
+Li Mutian cruzó el umbral, tomó la taza de té de la mesa y se sentó, diciendo con indiferencia:  
+–Fui a casa de los Tian a pedir la mano de su hija en matrimonio.
+
+Al escuchar esto, Li Xiangping se levantó de un salto de la silla, llevando una expresión de ansiedad en su rostro, y preguntó:  
+–¿Qué dijeron los Tian?
+
+–Tian Yun dijo que le gustas, respondió Li Mutian, bebiendo lentamente su té y suspirando con satisfacción.
+
+–¡Bien, bien, excelente! –exclamó Li Xiangping, asintiendo con entusiasmo.
+
+–¡Ja, ja, ja, ja!– Li Changhu y Li Tongya no pudieron evitar reír.
+
+Li Mutian, sin embargo, estaba pensando en otra cosa. Dejó su taza de té y habló en un tono serio:
+
+–El camino a la inmortalidad puede ser misterioso y poderoso, pero ¿quién sabe qué tipo de terrores y crisis se esconden en el? Nuestra Familia Li es pequeña; si algo les sucede a ustedes, ¿quién la heredará?
+
+Al ver que los jóvenes estaban prestando atención, Li Mutian movió la mano y dijo:
+
+–Este espejo es tanto una oportunidad para nuestra familia… como un posible desastre.
+
+–Me apresuré a arreglar el matrimonio de Changhu y espero que tenga hijos lo antes posible así, si algo sucede, nuestra Familia Li todavía tendrá una oportunidad de sobrevivir.
+
+–Tú también, Li Xiangping. –Li Mutian señaló al joven y suspiro para luego mirar a Li Tongya con una expresión de desesperanza. –En cuanto a ti, Tongya, ya soy viejo y no puedo decirte qué hacer. Si no te gustan las mujeres del pueblo, aun así debes dejar algún heredero..."
+
+Li Tongya guardó silencio y asintió con la cabeza. Pasaron varios segundos antes de que le respondiese:
+
+–No te preocupes, Padre, tengo todo bajo control.
+
+–Mejor así, –respondió Li Mutian.
+
+El hombre se acarició el cabello canoso en las sienes, su corazón lleno de preocupaciones.
+
+Ya casi tenía sesenta años. Aunque su cuerpo era fuerte y a él no le faltaba nada, la vida era impredecible, así que era mejor arreglar los asuntos familiares lo antes posible.
+
+–¡Padre!
+
+Un grito claro interrumpió la atmósfera ligeramente opresiva del patio. Li Chejing salió corriendo de la casa y se detuvo frente a sus hermanos.
+
+– ¡Estoy a punto de alcanzar las ochenta y un corrientes de luz lunar y de condensar la Rueda del Paisaje Profundo! – exclamó Li Chejing con la cabeza en alto.
+
+–¡Mi hijo Chejing es increíble! –Li Mutian, que ya había escuchado a su hijo hablar sobre la técnica de la Respiración Embrionaria y la Rueda del Paisaje Misterioso, se sintió invadido por la alegría y lo abrazó, riendo a carcajadas mientras lo miraba.
+
+Los hermanos también se dejaron llevar por la atmósfera alegre y mostraron sonrisas, y Li Changhu incluso le dio un pellizco en la mejilla a Li Chejing hasta que, al escucharlo quejarse por el dolor, lo dejó ir.
+
+–Para la próxima Semilla Talismánica de Perla Profunda, tendremos que esperar hasta el solsticio de verano.
+
+Li Tongya miró la escena alegre en el patio y sonrió, pensando:
+
+*–El día de la luna nueva no estaba preparado y lo tuve que dejar pasar, pero la próxima vez será el solsticio de verano, así que solo tengo que esperar unos días más.
+
+Él siguió grabando en silencio el Método de Recepción en una tablilla de madera, pero en su interior estaba emocionado y agitado.
+
+_El camino de la cultivación inmortal… Li Tongya ha llegado._
+
+[Capítulo Anterior:](https://www.blogger.com/#) 
+
+[Capítulo Siguiente:](https://www.blogger.com/#)

@@ -1,0 +1,128 @@
+# Capítulo 9 - Píldora Blanca.
+
+Bajo el sauce iluminado por la luna, Li Chejing abrió sus ojos de repente, dándose la vuelta hacia Li Mutian, que estaba sentado a su lado.
+
+El anciano leía el 「Método de Recepción」 grabada en un trozo de tela mientras tomaba un sorbo de té.
+
+–Padre, he pasado los últimos dos meses memorizando la técnica. Hoy es el primer día de verano y uno de los ocho términos solares. Creo que estoy listo para intentarlo,– dijo Li Chejing.
+
+–Adelante, entonces, –lo animó Li Mutian, hablando lento.
+
+Li Chejing se sintió eufórico, y sus tres hermanos estaban llenos de anticipación. Lo ayudaron a quemar incienso y a preparar el baño, colocando una mesa de altar en el patio.
+
+Li Mutian sacó con cuidado el espejo, colocándolo sobre un soporte de dragón sin cuernos que había tallado recientemente con sus propias manos. Delante de él, nueve varillas de incienso, así como frutas para ofrenda, fueron colocados sobre la mesa.
+
+Lu Jiangxian observó con una pizca de vergüenza, notando que la disposición del incienso y la fruta hacía parecer como si le estuviesen alabando estando muerto.
+
+Delante de la mesa, Li Chejing se arrodilló tres veces y presionó su frente contra el suelo nueve veces. Con la cabeza baja, declaró solemnemente: –Yo, discípulo Li Chejing de la familia Li, respetuosamente solicito la Dharma de la Brillantez Profunda Maravillosa, para gobernar mi destino y calmar mi espíritu, mientras me dedico a perseguir el Dao.
+
+–Realizaré acciones meritorias en los momentos adecuados, sin fallar en mi eficacia y fe. Mientras el talismán arde, mi cuerpo ofrece su gratitud al Yin Supremo.
+
+Habiendo hablado, vació su mente, canalizó la técnica y consumió una y otra vez el qi natural de la armonía suprema.
+
+Al mismo tiempo, Lu Jiangxian se enfocó y el espejo comenzó a brillar, su superficie brillando como el agua.
+
+–¡Hay una reacción! –exclamaron Li Mutian y los demás, con los ojos puestos sobre la mesa.
+
+El espejo grisáceo-azul vibró y una píldora de luz blanca salió, irradiando con tanta intensidad que los observadores tenían dificultad para mantener sus ojos abiertos.
+
+La mente de Li Chejing se quedó en blanco cuando una voz profunda y autoritaria resonó: –Aquí está el discípulo de la Familia Li, que ha retenido sus pasiones, bloqueado todas sus transgresiones y cortado las raíces del mal. A él, le otorgo la Dharma de la Brillantez Profunda Maravillosa, para que su karma Daoísta florezca, transformándolo de un simple mortal a un santo. Comenzará con disciplina y finalmente ascenderá a la verdad. Le otorgo un rollo del 「Sutra de Respiración para Nutrición de Rueda del Yin Supremo」, junto con el 「Arte de la Luz Dorada」.
+
+Li Chejing se levantó rápidamente y se sentó en posición de loto. La píldora de luz blanca se sumergió en su Palacio Niwan. Su cuerpo se sobresalto, pues fue sumergido en información compleja inundando su mente.[[1]](https://www.blogger.com/#)
+
+Habiendo impartido las invocaciones, la píldora blanca giró suavemente dentro del Palacio Niwan antes de viajar a lo largo de sus meridianos, finalizando su recorrido al asentarse dentro de la apertura del punto de acupuntura Qihai de su dantian inferior.  
+[[2]](https://www.blogger.com/#)
+
+Li Mutian y los demás observaron ansiosamente mientras la Semilla del Talismán de la Perla Profunda se hundió en la parte superior de la cabeza de Li Chejing. Observaron con la respiración contenida mientras Li Chejing, arrodillado con los ojos cerrados y la mente enfocada, permaneció en esta posición hasta el amanecer.
+
+A medida que el Yin Supremo cayó y el Cuervo Dorado se elevaba en el cielo, Li Chejing finalmente se movió, despertándose lentamente. Al abrir los ojos, se encontró rodeado de sus hermanos, todos con expresiones de ansiosa anticipación.
+
+–¡Padre! ¡Hermanos! He recibido la Semilla Talismánica de Perla Profunda y he entrado en el reino del cultivo inmortal! –exclamó Li Chejing, saltando para abrazar a su padre con entusiasmo.
+
+Li Mutian devolvió el abrazo con alegría, girando junto a su hijo en deleite. Li Tongya y los demás suspiraron aliviados, sus rostros resplandecientes de emoción.
+
+–También adquirí una técnica conocida como el 「Sutra de Respiración para Nutrición de Rueda del Yin Supremo」. –anunció Li Chejing.
+
+Al intentar recitar el principio de la misma, la píldora blanca sumergida en su punto de acupuntura Qihai tembló y, de repente, el niño se encontró sin poder hablar, incapaz de decir nada más que balbuceos.
+
+Sorprendido, Li Chejing cubrió su boca conmocionado.
+
+–¡Padre! –Cuando intentó hablar de nuevo, se sintió aliviado al encontrar que su voz había regresado. Sin embargo, cuando intentó leer el esquema de la técnica, descubrió que no podía articularlo.
+
+–Esta técnica inmortal no puede ser hablada ni escrita… Qué milagroso, realmente, –dijo Li Chejing, y su rostro reflejaba su nerviosismo.
+
+–No hay necesidad de preocuparse, –lo tranquilizó Li Changhu, sonriendo mientras le dio unas palmadas en la cabeza.
+
+Viendo cómo su padre devolvió el espejo a su lugar con respeto, añadió: –Cuando llegue el solsticio de verano, invoquemos la técnica de nuevo juntos.
+
+–Pero hermano… –interrumpió Li Cheijing con vacilación. –, Parece que solo hay seis de estos talismanes.
+
+–¿Solo seis? –Li Tongya revisó cuidadosamente el 「Método de Recepción」 que tenía en su mano y luego miró hacia arriba con confusión de nuevo.
+
+–Después de haber recibido la Semilla Talismánica de Perla Profunda, mi mente se llenó de nuevos conocimientos, incluyendo algo sobre los seis reinos de la cultivación inmortal y la Técnica de Nutrición de Meridianos de Respiración Embrionaria. Parece que este espejo solo puede separar seis semillas talismánicas, –explicó Li Chejing.
+
+Li Xiangping asintió con comprensión y consoló: –Un artefacto tan milagroso contiene la fortuna creativa del cielo y la tierra. Es normal que no tenga tantas.
+
+Li Changhu, conteniendo un bostezo, se dirigió a sus hermanos y sugirió: –Vamos a descansar un poco. Después de una noche de vigilia, seguro que estamos todos agotados.
+
+–¿Es solo para evitar que nuestra cuñada se preocupe, no? – bromeó Li Xiangping.
+
+– ¡Tú… muchacho travieso! – respondió Li Changhu de forma juguetona, y luego susurró:
+
+–Creo que Tian Yun es bastante agradable.
+
+–¡Hermano mayor, deja de hacer de casamentero! –protestó Li Xiangping, y luego se dio la vuelta y salió del patio.
+
+La risa de Li Changhu resonó mientras entraba al patio delantero.
+
+_–¡Aun hay esperanza!_ –se dijo Li Mutian a sí mismo, girando su barba con una sonrisa sabia.
+
+————
+
+Bajo el cielo nocturno, la luz lunar brillaba como agua fluyente.
+
+Li Chejing se sentó en el patio con las piernas cruzadas y los ojos cerrados. Hizo un mudra y extrajo una corriente de qi de su Punto de Acupuntura Qihai, dejando que pase por sus meridianos, saltando sobre las doce moradas[[3]](https://www.blogger.com/#) de su garganta y cuello, antes de emerger entre sus cejas.
+
+En un instante, los ojos de Li Chejing se iluminaron cuando la luz lunar se fusionó con ese pequeño haz de energía espiritual.
+
+Después de un breve instante, realizó un gesto con sus dedos, dirigiendo esa corriente de qi, ahora blanquecina, de regreso al punto de acupuntura Qihai.
+
+Este proceso se repitió tres veces. Para cuando Li Chejing abrió los ojos y miró hacia el cielo, se dio cuenta de que habían pasado cuatro horas.
+
+*–La velocidad a la que estoy absorbiendo la luz lunar es demasiado lenta.
+
+Li Chejing calculó que absorber la luz lunar ochenta y una veces era necesario para cultivar un hilo de qi de luz lunar.
+
+Para formar el primero de los seis chacras de la Respiración Embrionaria, el “chacra del Paisaje Profundo”, serían requeridos en total ochenta y un hilos de qi de luz lunar.
+
+Después de refinar con éxito el chacra del Paisaje Profundo, uno podría considerarse oficialmente ingresado dentro del reino de la Respiración Embrionaria y sería capaz de lanzar técnicas.
+
+_–Hacerlo tres veces lleva cuatro horas, ochenta y una veces llevarían ciento ocho horas,_– comenzó a contar Li Chejing en su mente.
+
+_–Con doce horas de cultivo diarias, llevaría nueve días. Para completar ochenta y un hilos, llevaría dos años…_
+
+Cuando miró la luz lunar reunida en el espejo, al joven se le ocurrió una idea. Li Chejing se sentó sobre la plataforma de piedra y reanudó su cultivación.
+
+Mientras tanto, Lu Jiangxian dejó pasar el tiempo dentro del espejo, constantemente cayendo presa del sueño. Hacía mucho que ya había absorbido la energía de luz lunar suficiente y encontró su tiempo dentro del espejo tanto extenso como aburrido, similar a cuando se dormía en una lección de relleno en la universidad. A veces, un día entero le pasaría en un abrir y cerrar de ojos, si pestañeaba lo suficientemente lento.
+
+El poder espiritual de Li Chejing surgió en el centro de sus cejas y se mezcló con el halo del espejo, despertando a Lu Jiangxian abruptamente de su sueño. Observando al muchacho frente a él, no pudo evitar sonreír.
+
+_–Qué niño más listo._
+
+Emocionado por su descubrimiento, continuó su práctica. Cuando el sol de la mañana cubrió todo el cielo y sus hermanos llegaron al patio trasero, recién ahí dejó de cultivar Li Chejing.
+
+Al mismo tiempo que sus hermanos y su padre se acercaron, Li Chejing contó lo que había pasado la noche anterior.
+
+Todos reaccionaron con sorpresa y deleite. Li Mutian, conmovido, ofreció otro palo de incienso a Lu Jiangxian y se llevó a sus hijos de la sala oculta.
+
+[Capítulo Anterior:](https://www.blogger.com/#) 
+
+[Capítulo Siguiente:](https://www.blogger.com/#) 
+
+---
+
+1. El Palacio Niwan está directamente abajo de la coronilla del cráneo, más o menos a la altura de la entre-ceja, posicionado exactamente en el centro.[↩︎](https://www.blogger.com/#)
+    
+2. La píldora bajó por el Palacio Niwan y, el **Qihai** se puede localizar colocando los dedos índice y medio juntos horizontalmente justo debajo del ombligo; el punto está exactamente al borde del dedo medio.[↩︎](https://www.blogger.com/#)
+    
+3. En la medicina tradicional china y en los textos de cultivo, se considera que la garganta tiene doce segmentos o "niveles" que el qi debe atravesar para ascender desde el pecho hacia la cabeza.[↩︎](https://www.blogger.com/#)

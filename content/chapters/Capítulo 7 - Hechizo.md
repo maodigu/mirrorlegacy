@@ -1,0 +1,114 @@
+# Capítulo 7 - Hechizo
+
+La deslumbrante cresta del amanecer sobre las Grandes Montañas Li acariciaba el dorado Lago Vistaluna. El viento barría las interminables y superpuestas marismas de juncos, llevando consigo la risa juguetona de los niños en el Río Meichi.
+
+Chen Erniu se sentó en la cresta entre los campos, mirando las cosechas con profunda preocupación, su mente en su esposa postrada en cama.
+
+Chen Erniu había nacido en Lichuankou, al este de las Grandes Montañas Li. Hacía más de veinte años, Lichuankou sufrió una inexplicable y grave sequía que surgió de la nada. Ni una sola gota de lluvia cayó, y la tierra expulsó agresivamente humo blanco, aterrorizando a los aldeanos y haciéndolos huir en todas direcciones.
+
+Siendo un niño a medio crecer perdido en el caos, huyó a la Aldea Lijing, donde el granjero Li Genshui lo acogió. Al año siguiente, le rentaron una parcela de tierra para que cultivase.
+
+Al hacerse mayor, alquiló otra parcela, construyó una casa de tierra, se casó con la hija de Li Genshui y se estableció en el pueblo con la cabeza en alto.
+
+Pero su esposa había caído enferma repentinamente. Afortunadamente, él había ahorrado algo de dinero a lo largo de los años. La llevó al borde del pueblo para que el maestro Han la examinara – resultó ser solo una enfermedad menor, que requería solo unas pocas dosis de medicina. La instaló en casa del maestro, pero su corazón permaneció suspendido en la garganta. ¡Una sola enfermedad podría empobrecer a tres generaciones!
+
+"¡Tío político!" –Chen Erniu había estado sumido en sus pensamientos cuando una voz cordial lo despertó de repente.
+
+Al levantar la vista, vio a un joven apuesto en la entrada del patio, sonriendo cálidamente a modo de saludo.
+
+–¡Ah, eres tú, Changhu! ¡No puedo aceptar tal título; no puedo!
+
+Chen Erniu se inclinó repetidamente. Se había casado con una hija nacida de una concubina de la familia Li, y era su arrendatario, encima de todo. Realmente no podía soportar ser llamado con un título de respeto como ese por parte del hijo mayor.
+
+Li Genshui había sido astuto y capaz, pero también era todo un mujeriego. Casarse con una esposa no había sido suficiente; también había recogido a dos mujeres en el camino para que fueran sus concubinas. Su esposa le había dado dos hijos, mientras que las concubinas habían dado a luz a tres hijos y cuatro hijas.
+
+Cuando Li Genshui era anciano y estaba cerca de la muerte, su único hijo legítimo joven que permanecía a su lado murió repentinamente. Los fuertes e impetuosos hijos de las concubinas miraban los diez mu de tierra de la familia como tigres hambrientos.
+
+Fue entonces cuando Li Mutian, que había huido de su hogar, regresó con una espada y hombres a su lado. Este brutal veterano mató al traidor mayordomo con un solo tajo. La adinerada familia que había envenenado a su hermano menor en preparación para anexionar sus tierras fue masacrada por completo – ni siquiera un perro se salvó.
+
+Li Mutian y sus dos hermanos de armas, llevando espadas chorreando sangre, utilizaron un carro de mano para arrastrar los cadáveres. El sangriento rastro se extendió desde el extremo del pueblo hasta su entrada. Cada hogar en el pueblo cerró sus puertas, todos temiendo por sus vidas. Los medio hermanos de Li Mutian estaban aterrados, asumiendo que, como el heredero legítimo había regresado, seguramente no tendrían ninguna parte de los campos.
+
+Para su sorpresa, Li Mutian los reunió. Declaró que, sin importar su linaje, todos compartían la misma sangre. Acto seguido, distribuyó con generosidad las tierras de la familia: dos mus a cada miembro de la familia, y cuatro mus a cada uno de los dos hombres que había traído hasta ahí._  
+MD: Dos mu son 1333,3 metros cuadrados de superficie. Cuatro mu es el doble._
+
+Abrumados por gratitud, todos lo reconocieron como la cabeza de la familia, consolidando así su liderazgo dentro de la Familia Li.
+
+Mientras Chen Erniu contemplaba la gentil sonrisa de Li Changhu, no pudo evitar recordar el rostro de Li Mutian, marcado crudamente por salpicaduras de sangre en un discordante contraste. Incluso bajo la calidez del sol, esa imagen fantasmal le provocó un escalofrío.
+
+No obstante, preguntó respetuosamente, –Changhu, ¿qué te trae por aquí?–
+
+–Ah, eres demasiado educado, tío, –Li Changhu sonrió y dijo suavemente: –Oímos que la tía estaba enferma. Mi padre pensó que no tendrías tiempo para cocinar, así que me envió específicamente a invitarte a ti y al Pequeño Ze a nuestra casa para que prueben la cocina de mi madre.
+
+–Esto es... me siento demasiado avergonzado, –Chen Erniu forzó una sonrisa, atrapado en un dilema.
+
+–¡Entonces está decidido! Madre ya lo ha preparado todo, –insistió Li Changhu, dando una palmada en el hombro a Chen Erniu antes de marcharse.
+
+–De acuerdo, –aceptó Chen Erniu, sacudiendo la cabeza divertido.
+
+Llamó hacia la casa: –Pequeño Ze, cámbiate. Iremos a casa de tu tío para cenar esta noche.
+
+---
+
+La Familia Li había renovado su mansión hace dos años, expandiéndola considerablemente. La propiedad se extendía de norte a sur en forma rectangular. El patio delantero, pavimentado con ladrillos de piedra y adornado con pesas cerraduras[[1]](https://www.blogger.com/#) del mismo material, parecía un campo de entrenamiento de artes marciales. Chen Erniu no pudo evitar chasquear la lengua en señal de admiración.
+
+–¿Podría ser que la Familia Li también posee un método para entrenar artes marciales? Qué cerrojo de piedra más magnífico.
+
+Puso un pie sobre las losas de piedra y entró en el patio principal. Un estanque había sido construido en el centro, poblado con algunas carpas negras. A la izquierda y a la derecha del salón principal, que estaba rodeado de piedra azul, se encontraban las alas laterales para Li Changhu y Li Tongya. Las bases de las habitaciones, las terrazas, la puerta principal y la puerta secundaria habían sido revestidas con bloques de piedra o escaleras, lo que le daba al lugar un aspecto extremadamente grandioso.
+
+Li Tongya, con dieciocho años y aún sin casar, los saludó al entrar. Li Changhu se había casado recientemente con la segunda hija de la Familia Ren en una gran ceremonia.
+
+Tras la cena con la Familia Li, Chen Erniu se sentó en el patio charlando cuando notó a Li Chejing irrumpir en el patio para susurrarle algo a Li Mutian.
+
+Aunque solo tenía nueve años, Li Chejing poseía un aspecto llamativamente apuesto y un comportamiento que denotaba inteligencia. Era especialmente querido por todos sus parientes y hermanos.
+
+Li Mutian, quien había estado observando casualmente a sus hijos, se inclinó para escuchar las palabras ahogadas de Li Chejing: –Padre, el espejo… ¡está brillando!
+
+Mantuvo la calma, se dio unos golpes en las piernas y se dirigió a la multitud: –Estoy envejeciendo y ya no puedo sentarme durante más tiempo. Iré a descansar; ustedes continúen con su conversación.
+
+Con eso, se dio la vuelta y se dirigió al patio trasero. Después de que el grupo reconoció a Li Mutian con asentimientos y murmullos de comprensión, Chen Erniu se levantó de inmediato. Hizo una reverencia respetuosa y empezó a prepararse para irse.
+
+Había varias estancias en el patio trasero. Li Mutian accedió al salón ancestral central, el más espacioso de todos. Allí, ofrendas de varias frutas y melones eran presentadas a los ancestros de seis generaciones atrás, cuyas historias se rastreaban a través de los registros de la aldea.
+
+Al empujar una de las paredes, reveló una habitación oculta tras el pasillo.
+
+La ventana del tejado arriba de ellos estaba abierta, permitiendo que la luz de la luna bañase la plataforma de piedra azul debajo de esta. Sobre ella, descansaba un espejo de bronce azul grisáceo que emitía una luz blanca, brillante y acuosa.
+
+–Han pasado tres años… Jing’er, ve a buscar a tus hermanos, –dijo Li Mutian, mirando al espejo con el ceño fruncido.
+
+–Enseguida, –respondió Li Chejing con energía antes de apresurarse a buscar a sus hermanos.
+
+---
+
+Al despertar, la mente de Lu Jiangxian se desbordó por conocimiento recién adquirido. Hizo una pausa, dedicando tanto tiempo como tardaría en quemarse una varilla de incienso[[2]](https://www.blogger.com/#) a ordenar sus pensamientos. Entonces, comenzó a explorar con esmero la riqueza de información contenida en el jade.
+
+¡El 「Sutra de Respiración para Nutrición de Rueda del Yin Supremo」!
+
+Esta técnica enseñaba principalmente cómo manipular la energía espiritual del cielo y la tierra a través de las aperturas del cuerpo humano, aprovechando la esencia lunar del Yin Supremo.
+
+En última instancia, al cultivar las Seis Ruedas de la Respiración Embrionaria, se podía utilizar estas seis ruedas para extender su esperanza de vida, nutrir su propia naturaleza y realizar diversas artes. Una vez que las seis ruedas hubiesen sido nutridas hasta que eran como una luna llena, se podía entrar en la etapa de Refinación de Qi.
+
+Además, la escritura delineaba varios hechizos menores, como la Luz Dorada, Purificar, Evadir Agua, Exorcismo y la Red Mental.
+
+Estas podían practicarse una vez que los seis chacras hubieran sido cultivados, aprovechando el Qi espiritual en concordancia con las enseñanzas del sutra.
+
+Además, la escritura delineaba los seis reinos de la cultivación inmortal: Respiración Embrionaria, Refinación de Qi, Fundación Establecida, Mansión Púrpura, Núcleo Dorado y Alma Naciente.
+
+El jade había registrado la Técnica de Nutrición de Meridianos de la Respiración Embrionaria de la Mansión del Origen de Luz Lunar del estado de Yue que era distribuida a sus discípulos en el reino de la Respiración Embrionaria para que la cultivasen.
+
+Después de absorber el conocimiento del jade, Lu Jiangxian experimentó una profunda transformación. Su sentido divino se expandió hasta unos veinte zhang[[3]](https://www.blogger.com/#), y la capacidad de su energía de luz lunar aumentó exponencialmente.
+
+Con suficiente energía de luz lunar, podría realizar los diversos hechizos menores registrados dentro del 「Sutra de Respiración para Nutrición de Rueda del Yin Supremo」, en cualquier lugar dentro de un radio de tres metros alrededor del espejo.
+
+Lo más importante, sin embargo, fue un hechizo específico de la memoria del espejo que emergió de manera prominente dentro de su mente – el 「Hechizo de Espíritu de Sacrificio de la Perla Profunda」.  
+[  
+Capítulo Anterior:](https://www.blogger.com/#)  
+  
+[Capítulo Siguiente:](https://www.blogger.com/#)  
+
+---
+
+1. Aclaración con respecto a las “Pesas Cerrojo de Piedra” – 石锁 (shí suǒ) que usan para entrenar en la casa Li. No tienen buena traducción en español que quede bien. Por ende, lo dejamos como Pesas de cerrojo o Cerrojos de piedra. Es lo mismo, pero tienen ese nombre.*[↩︎](https://www.blogger.com/#)
+    
+2. El tiempo que toma a una varilla de incienso quemarse suele variar entre 5 y 15 minutos. Se usa como expresión para referirse a que pasó un corto y fijo lapso de tiempo. [↩︎](https://www.blogger.com/#)
+    
+3. 1 Zhang es aproximadamente 3,2 metros. 20 Zhang = 66 metros[↩︎](https://www.blogger.com/#)
