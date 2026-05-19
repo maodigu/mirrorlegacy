@@ -1,54 +1,34 @@
-{{- $currentId := 0 -}}
-{{- $currentTitle := .Title -}}
-{{- $matches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+):\s*(.*)$` .RawContent 1 -}}
-{{- if $matches -}}
-  {{- $match := index $matches 0 -}}
-  {{- /* 1. Extraemos el string crudo (ej: "08") */ -}}
-  {{- $rawId := index $match 1 -}}
-  {{- /* 2. Le borramos los ceros a la izquierda (queda "8") */ -}}
-  {{- $cleanId := replaceRE "^0+" "" $rawId -}}
-  {{- /* 3. Lo convertimos a entero de forma segura */ -}}
-  {{- $currentId = int (or $cleanId "0") -}}
-  {{- $currentTitle = index $match 2 -}}
-{{- end -}}
+{{- /* 1. Agarramos el nombre exacto del archivo físico (ej: "01", "02") */ -}}
+{{- $currentId := .File.BaseFileName -}}
 
+{{- /* 2. Armamos la lista leyendo los nombres de los archivos (.File.BaseFileName) */ -}}
 {{- $chapters := slice -}}
 {{- range where .Site.RegularPages "Section" "chapters" -}}
-  {{- $cId := 0 -}}
-  {{- $cMatches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+)` .RawContent 1 -}}
-  {{- if $cMatches -}}
-    {{- /* Hacemos exactamente la misma limpieza para la lista */ -}}
-    {{- $rawCId := index (index $cMatches 0) 1 -}}
-    {{- $cleanCId := replaceRE "^0+" "" $rawCId -}}
-    {{- $cId = int (or $cleanCId "0") -}}
-  {{- end -}}
-  {{- $chapters = $chapters | append (dict "id" $cId "url" .RelPermalink) -}}
+  {{- $chapters = $chapters | append (dict "id" .File.BaseFileName "url" .RelPermalink) -}}
 {{- end -}}
 
+{{- /* 3. Al ser textos ("01", "02", "10"), el orden alfabético funciona perfecto */ -}}
 {{- $chapters = sort $chapters "id" "asc" -}}
 
-{{- /* INICIALIZAMOS COMO NÚMEROS (0) EN LUGAR DE TEXTO VACÍO ("") */ -}}
-{{- $prevId := 0 -}}
-{{- $nextId := 0 -}}
 {{- $prevUrl := "" -}}
 {{- $nextUrl := "" -}}
 {{- $currentIndex := -1 -}}
 
+{{- /* 4. Buscamos en qué posición de la lista está el archivo actual */ -}}
 {{- range $index, $element := $chapters -}}
   {{- if eq $element.id $currentId -}}
     {{- $currentIndex = $index -}}
   {{- end -}}
 {{- end -}}
 
+{{- /* 5. Extraemos las URLs reales que Hugo le asignó a los archivos anterior y siguiente */ -}}
 {{- if gt $currentIndex 0 -}}
   {{- $prevItem := index $chapters (sub $currentIndex 1) -}}
-  {{- $prevId = $prevItem.id -}}
   {{- $prevUrl = $prevItem.url -}}
 {{- end -}}
 
 {{- if lt (add $currentIndex 1) (len $chapters) -}}
   {{- $nextItem := index $chapters (add $currentIndex 1) -}}
-  {{- $nextId = $nextItem.id -}}
   {{- $nextUrl = $nextItem.url -}}
 {{- end -}}
 
@@ -234,22 +214,22 @@
             </a>
         </div>
 
-                <nav class="chapter-nav">
-            
+        <nav class="chapter-nav bottom-nav">
             {{ if $prevUrl }}
             <a class="nav-link nav-prev" href="{{ $prevUrl }}">← Anterior</a>
             {{ else }}
             <a class="nav-link nav-prev disabled">← Anterior</a>
             {{ end }}
 
-            <a class="nav-link nav-toc" href="{{ `/mirrorlegacy/` | relURL }}">Índice</a>
+            <a class="nav-link nav-toc" href="{{ `/mirrorlegacy/` | relURL }}"
+                >Índice</a
+            >
 
             {{ if $nextUrl }}
             <a class="nav-link nav-next" href="{{ $nextUrl }}">Siguiente →</a>
             {{ else }}
             <a class="nav-link nav-next disabled">Siguiente →</a>
             {{ end }}
-
         </nav>
 
         <footer class="page-footer">
