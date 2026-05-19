@@ -63,7 +63,7 @@ const AudioManager = {
         this.voices = this.synth.getVoices();
         DOM.voiceSelect.innerHTML = "";
 
-        const englishVoices = this.voices.filter((v) => v.lang.includes("en"));
+        const englishVoices = this.voices.filter((v) => v.lang.includes("es"));
 
         englishVoices.forEach((voice) => {
             const option = document.createElement("option");
