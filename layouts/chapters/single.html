@@ -114,19 +114,13 @@
 
         <div class="sticky-bar" id="topNav">
             <nav class="chapter-nav">
-            {{ if $prevId }}
-            <a class="nav-link nav-prev" href="{{ printf "/chapters/%02d/" $prevId | relURL }}">← Anterior</a>
-            {{ else }}
-            <a class="nav-link nav-prev disabled">← Anterior</a>
-            {{ end }}
+                {{ if gt $prevId 0 }}
+                <a class="nav-link nav-prev" href="{{ printf "/chapters/%02d/" $prevId | relURL }}">← Anterior</a>
+                {{ else }}
+                <a class="nav-link nav-prev disabled">← Anterior</a>
+                {{ end }}
 
-                <a
-                    class="nav-link nav-toc"
-                    href="{{ `/mirrorlegacy/` | relURL }}"
-                    >Índice</a
-                >
-
-                {{ if $nextId }}
+                {{ if gt $nextId 0 }}
                 <a class="nav-link nav-next" href="{{ printf "/chapters/%02d/" $nextId | relURL }}">Siguiente →</a>
                 {{ else }}
                 <a class="nav-link nav-next disabled">Siguiente →</a>
