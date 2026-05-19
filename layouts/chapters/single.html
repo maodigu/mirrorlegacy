@@ -1,7 +1,7 @@
-{{- /* 1. Identificador a prueba de balas usando el nombre del archivo ("01", "02") */ -}}
+{{- /* 1. Identificador usando el nombre del archivo ("01", "02") */ -}}
 {{- $currentId := .File.BaseFileName -}}
 
-{{- /* 2. RESTAURAMOS EL TÍTULO (Para que la línea 40 del HTML no tire error) */ -}}
+{{- /* 2. Extraemos el título para el HTML y el JS */ -}}
 {{- $currentTitle := .Title -}}
 {{- $matches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+):\s*(.*)$` .RawContent 1 -}}
 {{- if $matches -}}
@@ -9,35 +9,40 @@
   {{- $currentTitle = index $match 2 -}}
 {{- end -}}
 
-{{- /* 3. Armamos la lista leyendo los nombres físicos de los archivos */ -}}
+{{- /* 3. Armamos la lista de capítulos */ -}}
 {{- $chapters := slice -}}
 {{- range where .Site.RegularPages "Section" "chapters" -}}
   {{- $chapters = $chapters | append (dict "id" .File.BaseFileName "url" .RelPermalink) -}}
 {{- end -}}
 
-{{- /* 4. Al ser textos, el ordenamiento alfabético es perfecto y sin romper ceros */ -}}
+{{- /* 4. Ordenamiento alfabético perfecto */ -}}
 {{- $chapters = sort $chapters "id" "asc" -}}
 
+{{- /* 5. INICIALIZAMOS TODAS LAS VARIABLES (INCLUYENDO LAS DEL JS) */ -}}
 {{- $prevUrl := "" -}}
 {{- $nextUrl := "" -}}
+{{- $prevId := "" -}}
+{{- $nextId := "" -}}
 {{- $currentIndex := -1 -}}
 
-{{- /* 5. Calculamos la posición del archivo actual en la lista */ -}}
+{{- /* 6. Buscamos el archivo actual */ -}}
 {{- range $index, $element := $chapters -}}
   {{- if eq $element.id $currentId -}}
     {{- $currentIndex = $index -}}
   {{- end -}}
 {{- end -}}
 
-{{- /* 6. Extraemos las URLs nativas generadas por Hugo */ -}}
+{{- /* 7. Extraemos URLs e IDs para los botones y el Script */ -}}
 {{- if gt $currentIndex 0 -}}
   {{- $prevItem := index $chapters (sub $currentIndex 1) -}}
   {{- $prevUrl = $prevItem.url -}}
+  {{- $prevId = $prevItem.id -}}
 {{- end -}}
 
 {{- if lt (add $currentIndex 1) (len $chapters) -}}
   {{- $nextItem := index $chapters (add $currentIndex 1) -}}
   {{- $nextUrl = $nextItem.url -}}
+  {{- $nextId = $nextItem.id -}}
 {{- end -}}
 <!doctype html>
 <html lang="en">
@@ -664,11 +669,11 @@
         </div>
 
         <script>
-            const PREV_CHAPTER_NUM = "{{ $prevId }}";
-            const NEXT_CHAPTER_NUM = "{{ $nextId }}";
-            const CHAPTER_TITLE = `{{ $currentTitle }}`;
-            const CHAPTER_NUM = {{ $currentId }};
-        </script>
+    const PREV_CHAPTER_NUM = "{{ $prevId }}";
+    const NEXT_CHAPTER_NUM = "{{ $nextId }}";
+    const CHAPTER_TITLE = `{{ $currentTitle }}`;
+    const CHAPTER_NUM = "{{ $currentId }}";
+</script>
 
         {{ $floatingCore := resources.Get "js/vendor/floating-ui/core.js" |
         minify | fingerprint }}
