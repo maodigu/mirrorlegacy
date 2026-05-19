@@ -221,22 +221,22 @@
             </a>
         </div>
 
-        <nav class="chapter-nav bottom-nav">
+        <nav class="chapter-nav">
+    
             {{ if $prevUrl }}
             <a class="nav-link nav-prev" href="{{ $prevUrl }}">← Anterior</a>
             {{ else }}
             <a class="nav-link nav-prev disabled">← Anterior</a>
             {{ end }}
 
-            <a class="nav-link nav-toc" href="{{ `/mirrorlegacy/` | relURL }}"
-                >Índice</a
-            >
+            <a class="nav-link nav-toc" href="{{ `/mirrorlegacy/` | relURL }}">Índice</a>
 
             {{ if $nextUrl }}
             <a class="nav-link nav-next" href="{{ $nextUrl }}">Siguiente →</a>
             {{ else }}
             <a class="nav-link nav-next disabled">Siguiente →</a>
             {{ end }}
+
         </nav>
 
         <footer class="page-footer">
