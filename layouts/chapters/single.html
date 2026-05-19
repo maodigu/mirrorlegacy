@@ -3,8 +3,11 @@
 {{- $matches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+):\s*(.*)$` .RawContent 1 -}}
 {{- if $matches -}}
   {{- $match := index $matches 0 -}}
-  {{- /* CORREGIDO: Usamos replaceRE para limpiar los ceros a la izquierda de forma segura */ -}}
-  {{- $cleanId := replaceRE "^0+" "" (index $match 1) -}}
+  {{- /* 1. Extraemos el string crudo (ej: "08") */ -}}
+  {{- $rawId := index $match 1 -}}
+  {{- /* 2. Le borramos los ceros a la izquierda (queda "8") */ -}}
+  {{- $cleanId := replaceRE "^0+" "" $rawId -}}
+  {{- /* 3. Lo convertimos a entero de forma segura */ -}}
   {{- $currentId = int (or $cleanId "0") -}}
   {{- $currentTitle = index $match 2 -}}
 {{- end -}}
@@ -14,14 +17,19 @@
   {{- $cId := 0 -}}
   {{- $cMatches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+)` .RawContent 1 -}}
   {{- if $cMatches -}}
-    {{- /* CORREGIDO: Lo mismo para la lista de capítulos */ -}}
-    {{- $cleanCId := replaceRE "^0+" "" (index (index $cMatches 0) 1) -}}
+    {{- /* Hacemos exactamente la misma limpieza para la lista */ -}}
+    {{- $rawCId := index (index $cMatches 0) 1 -}}
+    {{- $cleanCId := replaceRE "^0+" "" $rawCId -}}
     {{- $cId = int (or $cleanCId "0") -}}
   {{- end -}}
   {{- $chapters = $chapters | append (dict "id" $cId "url" .RelPermalink) -}}
 {{- end -}}
 
 {{- $chapters = sort $chapters "id" "asc" -}}
+
+{{- /* VARIABLES RESTAURADAS PARA QUE EL HTML NO FALLE */ -}}
+{{- $prevId := "" -}}
+{{- $nextId := "" -}}
 {{- $prevUrl := "" -}}
 {{- $nextUrl := "" -}}
 {{- $currentIndex := -1 -}}
@@ -34,11 +42,13 @@
 
 {{- if gt $currentIndex 0 -}}
   {{- $prevItem := index $chapters (sub $currentIndex 1) -}}
+  {{- $prevId = $prevItem.id -}}
   {{- $prevUrl = $prevItem.url -}}
 {{- end -}}
 
 {{- if lt (add $currentIndex 1) (len $chapters) -}}
   {{- $nextItem := index $chapters (add $currentIndex 1) -}}
+  {{- $nextId = $nextItem.id -}}
   {{- $nextUrl = $nextItem.url -}}
 {{- end -}}
 
