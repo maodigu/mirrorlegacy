@@ -1,27 +1,35 @@
-{{- /* 1. Agarramos el nombre exacto del archivo físico (ej: "01", "02") */ -}}
+{{- /* 1. Identificador a prueba de balas usando el nombre del archivo ("01", "02") */ -}}
 {{- $currentId := .File.BaseFileName -}}
 
-{{- /* 2. Armamos la lista leyendo los nombres de los archivos (.File.BaseFileName) */ -}}
+{{- /* 2. RESTAURAMOS EL TÍTULO (Para que la línea 40 del HTML no tire error) */ -}}
+{{- $currentTitle := .Title -}}
+{{- $matches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+):\s*(.*)$` .RawContent 1 -}}
+{{- if $matches -}}
+  {{- $match := index $matches 0 -}}
+  {{- $currentTitle = index $match 2 -}}
+{{- end -}}
+
+{{- /* 3. Armamos la lista leyendo los nombres físicos de los archivos */ -}}
 {{- $chapters := slice -}}
 {{- range where .Site.RegularPages "Section" "chapters" -}}
   {{- $chapters = $chapters | append (dict "id" .File.BaseFileName "url" .RelPermalink) -}}
 {{- end -}}
 
-{{- /* 3. Al ser textos ("01", "02", "10"), el orden alfabético funciona perfecto */ -}}
+{{- /* 4. Al ser textos, el ordenamiento alfabético es perfecto y sin romper ceros */ -}}
 {{- $chapters = sort $chapters "id" "asc" -}}
 
 {{- $prevUrl := "" -}}
 {{- $nextUrl := "" -}}
 {{- $currentIndex := -1 -}}
 
-{{- /* 4. Buscamos en qué posición de la lista está el archivo actual */ -}}
+{{- /* 5. Calculamos la posición del archivo actual en la lista */ -}}
 {{- range $index, $element := $chapters -}}
   {{- if eq $element.id $currentId -}}
     {{- $currentIndex = $index -}}
   {{- end -}}
 {{- end -}}
 
-{{- /* 5. Extraemos las URLs reales que Hugo le asignó a los archivos anterior y siguiente */ -}}
+{{- /* 6. Extraemos las URLs nativas generadas por Hugo */ -}}
 {{- if gt $currentIndex 0 -}}
   {{- $prevItem := index $chapters (sub $currentIndex 1) -}}
   {{- $prevUrl = $prevItem.url -}}
@@ -31,7 +39,6 @@
   {{- $nextItem := index $chapters (add $currentIndex 1) -}}
   {{- $nextUrl = $nextItem.url -}}
 {{- end -}}
-
 <!doctype html>
 <html lang="en">
     <head>
@@ -95,21 +102,21 @@
         <div class="sticky-bar" id="topNav">
             <nav class="chapter-nav">
     
-                {{ if $prevUrl }}
-                <a class="nav-link nav-prev" href="{{ $prevUrl }}">← Anterior</a>
-                {{ else }}
-                <a class="nav-link nav-prev disabled">← Anterior</a>
-                {{ end }}
+    {{ if $prevUrl }}
+    <a class="nav-link nav-prev" href="{{ $prevUrl }}">← Anterior</a>
+    {{ else }}
+    <a class="nav-link nav-prev disabled">← Anterior</a>
+    {{ end }}
 
-                <a class="nav-link nav-toc" href="{{ `/mirrorlegacy/` | relURL }}">Índice</a>
+    <a class="nav-link nav-toc" href="{{ `/mirrorlegacy/` | relURL }}">Índice</a>
 
-                {{ if $nextUrl }}
-                <a class="nav-link nav-next" href="{{ $nextUrl }}">Siguiente →</a>
-                {{ else }}
-                <a class="nav-link nav-next disabled">Siguiente →</a>
-                {{ end }}
+    {{ if $nextUrl }}
+    <a class="nav-link nav-next" href="{{ $nextUrl }}">Siguiente →</a>
+    {{ else }}
+    <a class="nav-link nav-next disabled">Siguiente →</a>
+    {{ end }}
 
-            </nav>
+</nav>
         </div>
 
         <div class="audio-toolbar-wrapper">
