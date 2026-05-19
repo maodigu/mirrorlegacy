@@ -1,10 +1,11 @@
 {{- $currentId := 0 -}}
 {{- $currentTitle := .Title -}}
-{{- /* CORREGIDO: Se eliminó la "r" sobrante en Capítulo */ -}}
 {{- $matches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+):\s*(.*)$` .RawContent 1 -}}
 {{- if $matches -}}
   {{- $match := index $matches 0 -}}
-  {{- $currentId = int (index $match 1) -}}
+  {{- /* CORREGIDO: Usamos replaceRE para limpiar los ceros a la izquierda de forma segura */ -}}
+  {{- $cleanId := replaceRE "^0+" "" (index $match 1) -}}
+  {{- $currentId = int (or $cleanId "0") -}}
   {{- $currentTitle = index $match 2 -}}
 {{- end -}}
 
@@ -13,14 +14,14 @@
   {{- $cId := 0 -}}
   {{- $cMatches := findRESubmatch `(?m)^#\s*Capítulo\s+(\d+)` .RawContent 1 -}}
   {{- if $cMatches -}}
-    {{- $cId = int (index (index $cMatches 0) 1) -}}
+    {{- /* CORREGIDO: Lo mismo para la lista de capítulos */ -}}
+    {{- $cleanCId := replaceRE "^0+" "" (index (index $cMatches 0) 1) -}}
+    {{- $cId = int (or $cleanCId "0") -}}
   {{- end -}}
   {{- $chapters = $chapters | append (dict "id" $cId "url" .RelPermalink) -}}
 {{- end -}}
 
 {{- $chapters = sort $chapters "id" "asc" -}}
-{{- $prevId := "" -}}
-{{- $nextId := "" -}}
 {{- $prevUrl := "" -}}
 {{- $nextUrl := "" -}}
 {{- $currentIndex := -1 -}}
@@ -33,13 +34,11 @@
 
 {{- if gt $currentIndex 0 -}}
   {{- $prevItem := index $chapters (sub $currentIndex 1) -}}
-  {{- $prevId = $prevItem.id -}}
   {{- $prevUrl = $prevItem.url -}}
 {{- end -}}
 
 {{- if lt (add $currentIndex 1) (len $chapters) -}}
   {{- $nextItem := index $chapters (add $currentIndex 1) -}}
-  {{- $nextId = $nextItem.id -}}
   {{- $nextUrl = $nextItem.url -}}
 {{- end -}}
 
