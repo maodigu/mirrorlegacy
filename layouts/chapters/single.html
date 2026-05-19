@@ -27,9 +27,9 @@
 
 {{- $chapters = sort $chapters "id" "asc" -}}
 
-{{- /* VARIABLES RESTAURADAS PARA QUE EL HTML NO FALLE */ -}}
-{{- $prevId := "" -}}
-{{- $nextId := "" -}}
+{{- /* INICIALIZAMOS COMO NÚMEROS (0) EN LUGAR DE TEXTO VACÍO ("") */ -}}
+{{- $prevId := 0 -}}
+{{- $nextId := 0 -}}
 {{- $prevUrl := "" -}}
 {{- $nextUrl := "" -}}
 {{- $currentIndex := -1 -}}
