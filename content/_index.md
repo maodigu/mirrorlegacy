@@ -7,8 +7,6 @@ author: "Ji Yueren (季越人)"
 translator: "Maodigu"
 images: ["img/cover.jpg"]
 links:
-  - name: "Discord"
-    url: "https://discord.gg/mirrorlegacy"
   - name: "Fandom Wiki"
     url: "https://the-mirror-legacy.fandom.com/wiki/The_Mirror_Legacy_Wiki"
   - name: "Raws"
