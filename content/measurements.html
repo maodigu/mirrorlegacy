@@ -1,5 +1,5 @@
 ---
-title: "Sino Scale Converter"
+title: "Convertidor de Escala de Sino"
 description: "Convertir unidades de medida tradicionales en las novelas de cultivación china (Li, Zhang, Catty, Shichen) con su respectiva equivalencia métrica."
 ---
 
@@ -585,4 +585,35 @@ description: "Convertir unidades de medida tradicionales en las novelas de culti
     }
 
     window.addEventListener("DOMContentLoaded", init);
+
+    document.addEventListener("DOMContentLoaded", function() {
+    // 1. Extrae los parámetros 'unit' y 'qty' de la URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const unitParam = urlParams.get('unit');
+    const qtyParam = urlParams.get('qty');
+
+    if (unitParam && qtyParam) {
+        // 2. Localiza las casillas de entrada en tu conversor
+        // NOTA: Asegúrate de reemplazar estos IDs ("sinoInput" e "inputUnit") por los IDs REALES de tu formulario si son diferentes
+        const inputField = document.getElementById("sinoInput") || document.getElementById("inputValue");
+        const selectField = document.getElementById("sinoUnit") || document.getElementById("inputUnit") || document.getElementById("unitSelect");
+
+        if (inputField && selectField) {
+            // 3. Rellena los campos con los datos de la URL
+            inputField.value = qtyParam;
+            selectField.value = unitParam;
+
+            // 4. Ejecuta automáticamente la función que calcula la conversión
+            // El script intentará buscar funciones comunes. Reemplázalo por la tuya si tiene otro nombre (ej. updateConversion())
+            if (typeof convert === "function") {
+                convert();
+            } else if (typeof calculate === "function") {
+                calculate();
+            } else if (typeof updateResult === "function") {
+                updateResult();
+            }
+        }
+    }
+});
+    
 </script>
