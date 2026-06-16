@@ -405,7 +405,7 @@ description: "Convertir unidades de medida tradicionales en las novelas de culti
 
     const MODERN_UNITS = {
         dist: [
-            { key: "m", name: "Meters (m)", factor: 1 },
+            { key: "m", name: "Metros (m)", factor: 1 },
             { key: "km", name: "Kilometros (km)", factor: 1000 },
             { key: "cm", name: "Centimetros (cm)", factor: 0.01 },
             { key: "mm", name: "Milímetros (mm)", factor: 0.001 },
@@ -518,9 +518,9 @@ description: "Convertir unidades de medida tradicionales en las novelas de culti
             modSel.options[modSel.selectedIndex].getAttribute("data-name");
 
         if (direction === "sinoToModern") {
-            label.innerText = `Amount (${sinoName})`;
+            label.innerText = `Cantidad (${sinoName})`;
         } else {
-            label.innerText = `Amount (${modName})`;
+            label.innerText = `Cantidad (${modName})`;
         }
     }
 
