@@ -714,41 +714,73 @@
         </script>
         
         <script>
-document.addEventListener("DOMContentLoaded", function() {
-    // URL base de tu herramienta de conversión
-    const baseUrl = "https://maodigu.github.io/mirrorlegacy/measurements/";
-    
-    // Regex mejorado para capturar números enteros, decimales o con puntos de millares en español
-    const regex = /(\d+(?:[\.\s]\d+)*)\s*(li|zhang|catty|shichen)\b/gi;
+(function() {
+    function crearEnlacesMedidas() {
+        // URL base de tu herramienta de conversión
+        const baseUrl = "https://maodigu.github.io/mirrorlegacy/measurements/";
+        
+        // Súper Regex: Detecta números (10, 10.000) y también palabras (un, dos, diez, cien)
+        // Soporta unidades en singular y plural (li, zhang, jin, jins, catty, shichen, shichens)
+        const regex = /(\d+(?:[\.\,]\d+)?|\b(?:un|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez|once|doce|quince|veinte|treinta|cuarenta|cincuenta|cien|ciento|doscientos|trescientos|quinientos|mil|medio|diez mil)\b)\s+(li|zhang|jin|jins|catty|shichen|shichens)\b/gi;
 
-    const textNodes = [];
-    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
-    
-    let node;
-    while(node = walker.nextNode()) {
-        const parentName = node.parentNode.nodeName;
-        // Protege enlaces existentes, scripts y estilos
-        if(parentName !== 'A' && parentName !== 'SCRIPT' && parentName !== 'STYLE') {
-            textNodes.push(node);
+        // Diccionario para traducir palabras a números y que el conversor las entienda
+        const wordToNum = {
+            "un": 1, "dos": 2, "tres": 3, "cuatro": 4, "cinco": 5, "seis": 6, "siete": 7, "ocho": 8, "nueve": 9, "diez": 10,
+            "once": 11, "doce": 12, "quince": 15, "veinte": 20, "treinta": 30, "cuarenta": 40, "cincuenta": 50,
+            "cien": 100, "ciento": 100, "doscientos": 200, "trescientos": 300, "quinientos": 500, "mil": 1000, "medio": 0.5, "diez mil": 10000
+        };
+
+        const textNodes = [];
+        const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+        
+        let node;
+        while(node = walker.nextNode()) {
+            const parentName = node.parentNode.nodeName;
+            // No intervenir etiquetas de sistema o enlaces ya creados
+            if(parentName !== 'A' && parentName !== 'SCRIPT' && parentName !== 'STYLE' && parentName !== 'CODE') {
+                textNodes.push(node);
+            }
         }
+
+        textNodes.forEach(node => {
+            const text = node.nodeValue;
+            
+            // Usamos match() para evitar problemas de caché en la memoria de la búsqueda
+            if(text.match(regex)) {
+                const span = document.createElement('span');
+                
+                span.innerHTML = text.replace(regex, function(match, qty, unit) {
+                    let cleanQty = qty.toLowerCase().trim();
+                    
+                    // Si el número está escrito en letras (ej: "diez"), lo pasa a dígito (10)
+                    if (wordToNum[cleanQty] !== undefined) {
+                        cleanQty = wordToNum[cleanQty];
+                    } else {
+                        // Si es número con puntos (ej: "10.000"), quita el punto para el conversor
+                        cleanQty = cleanQty.replace(/\s/g, '').replace(/\./g, '').replace(',', '.');
+                    }
+                    
+                    // Normalizamos unidades en plural para que la URL sea limpia
+                    let cleanUnit = unit.toLowerCase();
+                    if (cleanUnit === 'jins') cleanUnit = 'jin';
+                    if (cleanUnit === 'shichens') cleanUnit = 'shichen';
+                    
+                    // Genera el hipervínculo
+                    return `<a href="${baseUrl}?unit=${cleanUnit}&qty=${cleanQty}" target="_blank" style="color: #6495ED; text-decoration: underline; font-weight: bold;" title="Convertir medida">${match}</a>`;
+                });
+                
+                node.parentNode.replaceChild(span, node);
+            }
+        });
     }
 
-    textNodes.forEach(node => {
-        const text = node.nodeValue;
-        if(regex.test(text)) {
-            const span = document.createElement('span');
-            span.innerHTML = text.replace(regex, function(match, qty, unit) {
-                // Limpia los puntos de millar o espacios para enviar un número limpio al sistema (ej: "10.000" -> "10000")
-                const cleanQty = qty.replace(/[\.\s]/g, '');
-                const lowerUnit = unit.toLowerCase();
-                
-                // Genera el hipervínculo dinámico
-                return `<a href="${baseUrl}?unit=${lowerUnit}&qty=${cleanQty}" target="_blank" style="color: #6495ED; text-decoration: underline;" title="Convertir medida">${match}</a>`;
-            });
-            node.parentNode.replaceChild(span, node);
-        }
-    });
-});
+    // Doble seguro de ejecución: Revisa si la página ya cargó o espera a que cargue
+    if (document.readyState === 'loading') {
+        document.addEventListener("DOMContentLoaded", crearEnlacesMedidas);
+    } else {
+        crearEnlacesMedidas();
+    }
+})();
 </script>
       
     </body>
