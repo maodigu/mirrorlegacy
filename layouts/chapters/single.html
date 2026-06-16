@@ -712,5 +712,43 @@
                 });
             }
         </script>
+        
+        <script>
+              document.addEventListener("DOMContentLoaded", function() {
+              // Definimos la URL base de tu conversor
+              const baseUrl = "https://maodigu.github.io/mirrorlegacy/measurements/";
+              
+              // Esta expresión regular busca un número seguido de las unidades que quieras detectar (li, zhang, jin/catty, shichen)
+              const regex = /(\d+(?:\.\d+)?)\s*(li|zhang|catty|shichen)\b/gi;
+          
+              // Usamos un TreeWalker para buscar solo dentro de los textos (evitando romper etiquetas HTML, enlaces o scripts)
+              const textNodes = [];
+              const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+              
+              let node;
+              while(node = walker.nextNode()) {
+                  const parentName = node.parentNode.nodeName;
+                  // Evitamos modificar textos que ya son enlaces <a>, o que están en <script> / <style>
+                  if(parentName !== 'A' && parentName !== 'SCRIPT' && parentName !== 'STYLE') {
+                      textNodes.push(node);
+                  }
+              }
+          
+              // Reemplazamos el texto encontrado por el hipervínculo
+              textNodes.forEach(node => {
+                  const text = node.nodeValue;
+                  if(regex.test(text)) {
+                      const span = document.createElement('span');
+                      span.innerHTML = text.replace(regex, function(match, qty, unit) {
+                          const lowerUnit = unit.toLowerCase();
+                          // Retorna el hipervínculo con los parámetros correspondientes
+                          return `<a href="${baseUrl}?unit=${lowerUnit}&qty=${qty}" target="_blank" style="color: #6495ED; text-decoration: underline;" title="Convertir medida">${match}</a>`;
+                      });
+                      node.parentNode.replaceChild(span, node);
+                  }
+              });
+          });
+    </script>
+      
     </body>
 </html>
