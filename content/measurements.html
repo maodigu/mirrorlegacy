@@ -1,6 +1,6 @@
 ---
 title: "Sino Scale Converter"
-description: "Convert traditional Chinese cultivation units (Li, Zhang, Catty, Shichen) to metric measurements."
+description: "Convertir unidades de medida tradicionales en las novelas de cultivación china (Li, Zhang, Catty, Shichen) con su respectiva equivalencia métrica."
 ---
 
 <style>
@@ -230,26 +230,26 @@ description: "Convert traditional Chinese cultivation units (Li, Zhang, Catty, S
 
 <div class="converter-card">
     <div class="converter-header">
-        <h2>Sino Scale</h2>
+        <h2>Escala Sino</h2>
     </div>
 
     <div class="converter-body">
         <div class="amount-section">
-            <label id="inputLabel">Amount (Sino)</label>
+            <label id="inputLabel">Cantidad (Sino)</label>
             <input
                 type="number"
                 id="inputValue"
                 class="control-input"
                 value="1"
                 min="0"
-                placeholder="Enter value..."
+                placeholder="Ingresar Valor..."
                 oninput="calculate()"
             />
         </div>
 
         <div class="unit-selection-grid">
             <div class="unit-column">
-                <label>Sino Unit</label>
+                <label>Unidad Sino </label>
                 <select id="sinoSelect" onchange="handleSinoChange()">
                     <optgroup label="Distance / Length">
                         <option value="li" selected>Li (里)</option>
@@ -266,9 +266,9 @@ description: "Convert traditional Chinese cultivation units (Li, Zhang, Catty, S
                     <optgroup label="Time">
                         <option value="shichen">Shichen (2hr)</option>
                         <option value="ke">Ke (15min)</option>
-                        <option value="incense">Incense</option>
-                        <option value="tea">Cup of Tea</option>
-                        <option value="breath">Breath</option>
+                        <option value="incense">Incienso</option>
+                        <option value="tea">Taza de Té</option>
+                        <option value="breath">Respiro</option>
                     </optgroup>
                 </select>
             </div>
@@ -297,7 +297,7 @@ description: "Convert traditional Chinese cultivation units (Li, Zhang, Catty, S
             </div>
 
             <div class="unit-column">
-                <label>Modern Unit</label>
+                <label>Unidades Modernas</label>
                 <select id="modernSelect" onchange="calculate()"></select>
             </div>
         </div>
@@ -332,7 +332,7 @@ description: "Convert traditional Chinese cultivation units (Li, Zhang, Catty, S
         </div>
 
         <div class="info-note" id="infoNote">
-            Standard cultivation distance unit.
+            Distancia Común de distancia en cultivación.
         </div>
     </div>
 </div>
@@ -345,87 +345,87 @@ description: "Convert traditional Chinese cultivation units (Li, Zhang, Catty, S
         li: {
             base: 500,
             type: "dist",
-            desc: "Standard cultivation distance unit (~500m).",
+            desc: "Unidad de medida de cultivación estándar (~500m).",
         },
         zhang: {
             base: 3.333333333,
             type: "dist",
-            desc: "Used for height or short distances (~3.33m).",
+            desc: "Usada para altura o distancias cortas (~3.33m).",
         },
         chi: {
             base: 0.333333333,
             type: "dist",
-            desc: "Similar to a foot (~33cm).",
+            desc: "Similar a un pie (~33cm).",
         },
         cun: {
             base: 0.033333333,
             type: "dist",
-            desc: "Similar to an inch (~3.3cm).",
+            desc: "Similar a una pulgada (~3.3cm).",
         },
 
         dan: {
             base: 50,
             type: "weight",
-            desc: "A heavy load, roughly a picul (50kg).",
+            desc: "Carga pesada, aproximadamente un picul (50kg).",
         },
         jin: { base: 0.5, type: "weight", desc: "Standard 'Catty' (500g)." },
         liang: {
             base: 0.05,
             type: "weight",
-            desc: "Small weight, 'Tael' (50g).",
+            desc: "Peso pequeño, un 'Tael'. (50g).",
         },
         qian: {
             base: 0.005,
             type: "weight",
-            desc: "Very small weight, 'Mace' (5g).",
+            desc: "Un peso muy pequeño, 'Mace' (5g).",
         },
 
         shichen: {
             base: 120,
             type: "time",
-            desc: "One of the 12 Earthly Branches (2 hours).",
+            desc: "Una de las doce ramas celestiales (2 horas).",
         },
         ke: { base: 15, type: "time", desc: "Standard quarter-hour." },
         incense: {
             base: 30,
             type: "time",
-            desc: "Approximate time to burn one stick.",
+            desc: "Tiempo que toma aproximadamente quemar una varilla.",
         },
         tea: {
             base: 10,
             type: "time",
-            desc: "Time to drink a hot tea (~10 mins).",
+            desc: "Tiempo que toma aproximadamente beber una taza de té (~10 mins).",
         },
         breath: {
             base: 0.05,
             type: "time",
-            desc: "One respiration cycle (~3s).",
+            desc: "Un ciclo de respiración (~3s).",
         },
     };
 
     const MODERN_UNITS = {
         dist: [
             { key: "m", name: "Meters (m)", factor: 1 },
-            { key: "km", name: "Kilometers (km)", factor: 1000 },
-            { key: "cm", name: "Centimeters (cm)", factor: 0.01 },
-            { key: "mm", name: "Millimeters (mm)", factor: 0.001 },
-            { key: "mi", name: "Miles", factor: 1609.344 },
-            { key: "ft", name: "Feet", factor: 0.3048 },
-            { key: "in", name: "Inches", factor: 0.0254 },
-            { key: "yd", name: "Yards", factor: 0.9144 },
+            { key: "km", name: "Kilometros (km)", factor: 1000 },
+            { key: "cm", name: "Centimetros (cm)", factor: 0.01 },
+            { key: "mm", name: "Milímetros (mm)", factor: 0.001 },
+            { key: "mi", name: "Millas", factor: 1609.344 },
+            { key: "ft", name: "Pies", factor: 0.3048 },
+            { key: "in", name: "Pulgadas", factor: 0.0254 },
+            { key: "yd", name: "Yardas", factor: 0.9144 },
         ],
         weight: [
-            { key: "kg", name: "Kilograms (kg)", factor: 1 },
-            { key: "g", name: "Grams (g)", factor: 0.001 },
-            { key: "t", name: "Tonnes", factor: 1000 },
-            { key: "lb", name: "Pounds (lb)", factor: 0.45359237 },
-            { key: "oz", name: "Ounces (oz)", factor: 0.02834952 },
+            { key: "kg", name: "Kilogramos (kg)", factor: 1 },
+            { key: "g", name: "Gramos (g)", factor: 0.001 },
+            { key: "t", name: "Toneladas", factor: 1000 },
+            { key: "lb", name: "Libras (lb)", factor: 0.45359237 },
+            { key: "oz", name: "Onzas (oz)", factor: 0.02834952 },
         ],
         time: [
-            { key: "min", name: "Minutes", factor: 1 },
-            { key: "sec", name: "Seconds", factor: 1 / 60 },
-            { key: "hr", name: "Hours", factor: 60 },
-            { key: "day", name: "Days", factor: 1440 },
+            { key: "min", name: "Minutos", factor: 1 },
+            { key: "sec", name: "Segundos", factor: 1 / 60 },
+            { key: "hr", name: "Horas", factor: 60 },
+            { key: "day", name: "Días", factor: 1440 },
         ],
     };
 
